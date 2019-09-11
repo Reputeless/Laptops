@@ -74,7 +74,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Release: 2018-10
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i5-8265U / 4C8T / 1.6GHz～3.9GHz / 6MB L3
-- iGPU: Intel UHD Graphics 620 / 24 uints / 300MHz～1.10GHz
+- iGPU: Intel UHD Graphics 620 / 24 units / 300MHz～1.10GHz
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
@@ -87,7 +87,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Release: **2019-09**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i5-1035G1 / 4C8T / 1.0GHz～3.6GHz / 6MB L3
-- iGPU: Intel UHD Graphics **Gen11** / **32 uints** / 300 MHz～1.05 GHz
+- iGPU: Intel UHD Graphics **Gen11** / **32 units** / 300 MHz～1.05 GHz
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
@@ -103,7 +103,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i5-10210U / 4C8T / 1.6GHz～4.2GHz / 6MB L3
 - **dGPU:** GeForce MX230 / 2GB GDDR5
-- iGPU: Intel UHD Graphics / 24 uints / 300 MHz～1.10 GHz
+- iGPU: Intel UHD Graphics / 24 units / 300 MHz～1.10 GHz
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
@@ -116,7 +116,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Release: **2019-09**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i5-1035G1 / 4C8T / 1.0GHz～3.6GHz / 6MB L3
-- iGPU: Intel UHD Graphics **Gen11** / **32 uints** / 300 MHz～1.05 GHz
+- iGPU: Intel UHD Graphics **Gen11** / **32 units** / 300 MHz～1.05 GHz
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
@@ -160,7 +160,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i7-10510U / 4C8T / 1.8GHz～**4.9GHz** / **8MB L3**
 - **dGPU:** GeForce MX230 / 2GB GDDR5
-- iGPU: Intel UHD Graphics / 24 uints / 300 MHz～**1.15 GHz**
+- iGPU: Intel UHD Graphics / 24 units / 300 MHz～**1.15 GHz**
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
@@ -174,7 +174,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i7-8750H / **6C12T** / **2.2GHz**～4.1GHz / **9MB L3**
 - **dGPU:** GeForce GTX 1050 Ti / **4GB GDDR5**
-- iGPU: Intel UHD Graphics 630 / 24 uints / **350 MHz**～1.10 GHz
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.10 GHz
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage1: 128GB **M.2 PCIe NVMe SSD**
 - Storage2: **1TB** 5400 rpm SATA HDD
@@ -194,7 +194,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i7-8750H / **6C12T** / **2.2GHz**～4.1GHz / **9MB L3**
 - **dGPU:** GeForce GTX 1050 Ti / **4GB GDDR5**
-- iGPU: Intel UHD Graphics 630 / 24 uints / **350 MHz**～1.10 GHz
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.10 GHz
 - Memory: **16GB** / **DDR4 2666MHz**
 - Storage1: 256GB **M.2 PCIe NVMe SSD**
 - Storage2: **1TB** 5400 rpm SATA HDD
@@ -209,7 +209,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
-- iGPU: Intel UHD Graphics 630 / 24 uints / **350 MHz～1.15 GHz**
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
 - Memory: **16GB** / **DDR4 2666MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
@@ -225,7 +225,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i7-10510U / 4C8T / 1.8GHz～**4.9GHz** / **8MB L3**
 - **dGPU:** GeForce MX250 / 2GB GDDR5
-- iGPU: Intel UHD Graphics / 24 uints / 300 MHz～**1.15 GHz**
+- iGPU: Intel UHD Graphics / 24 units / 300 MHz～**1.15 GHz**
 - Memory: 8GB / LPDDR3 2133MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 13.3 inch / **1920 x 1080**
@@ -241,7 +241,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
 - **dGPU:** **GeForce GTX 1660Ti Max-Q** / **6GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 uints / **350 MHz～1.15 GHz**
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
 - Memory: **16GB** / **DDR4 2666MHz**
 - Storage1: 256GB **M.2 PCIe NVMe SSD**
 - Storage2: **1TB** 5400 rpm SATA HDD
