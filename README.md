@@ -32,7 +32,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ## 予算 4 万円以下
 
-### 38,146円 | [Inspiron 15 3000スタンダード](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-3000%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89/spd/inspiron-15-3581-laptop/cai106kspl5t04on5ojp)
+### 38,146 円 | [Inspiron 15 3000スタンダード](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-3000%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89/spd/inspiron-15-3581-laptop/cai106kspl5t04on5ojp)
 
 - Model: Inspiron 15 (3581)
 - Release: 2019-02
@@ -50,7 +50,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ## 予算 6 万円以下
 
-### 52,645円 | [New Inspiron 15 3000 スタンダード](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89/spd/inspiron-15-3593-laptop/cai1062hllit04on3ojp)
+### 53,345 円 | [New Inspiron 15 3000 スタンダード](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89/spd/inspiron-15-3593-laptop/cai1062hllit04on3ojp)
 
 - Model: Inspiron 15 (3593)
 - Release: **2019-09**
@@ -63,7 +63,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Option: **DVD ドライブ**
 - Weight: 2.20kg
 
-※ 上記の基本構成のままでは 6 万円以上対象のクーポンを適用できないので、基本構成に加えて 5,020 円以上のオプション品（セキュリティソフト、ブリーフケース等）を追加する。上記の価格は「1年間 アクシデンタルダメージ (盗難対応オプション付き)」1,000 円、「Dell エッセンシャル ブリーフケース 15 ES1520C」2,100 円、「Dell エッセンシャル バックパック 15 ES1520P」2,900 円の 3 点を追加したもの。これにより、グッズを追加してもなお基本構成より 3,000 円安く購入できる
+※ 上記の基本構成のままでは 6 万円以上対象のクーポンを適用できないので、基本構成に加えて 5,020 円以上のオプション品（セキュリティソフト・サポート等）を追加する。上記の価格は「ブラック パームレスト 指紋認証リーダー 付き」2,000 円、「マカフィー® リブセーフ™ (24ヶ月間更新サービス)」4,000 円の 2 点を追加したもの。これにより、オプションを追加してもなお基本構成より 約 2,000 円安く購入できる
 
 
 ## 予算 7 万円以下
@@ -81,7 +81,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Weight: **1.48 kg～**
 
 
-### 64,717円 | [New Inspiron 15 3000 プレミアム（光学ドライブ無・SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-ssd%E6%90%AD%E8%BC%89/spd/inspiron-15-3593-laptop/cai2541hllif08on3ojp)
+### 64,717 円 | [New Inspiron 15 3000 プレミアム（光学ドライブ無・SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-ssd%E6%90%AD%E8%BC%89/spd/inspiron-15-3593-laptop/cai2541hllif08on3ojp)
 
 - Model: Inspiron 15 (3593)
 - Release: **2019-09**
@@ -110,7 +110,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Weight: **1.42 kg～**
 
 
-### 76,965円 | [New Inspiron 15 5000 プレミアム（光学ドライブ無・大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-5000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-15-5593-laptop/cai3452hll5f08on3ojp)
+### 76,965 円 | [New Inspiron 15 5000 プレミアム（光学ドライブ無・大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-5000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-15-5593-laptop/cai3452hll5f08on3ojp)
 
 - Model: Inspiron 15 (5593)
 - Release: **2019-09**
@@ -123,7 +123,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Weight: 1.83kg～
 
 
-### 78,714円 | [New Inspiron 15 3000 プラチナ（光学ドライブ無・大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-15-3593-laptop/cai2651hllis08on3ojp)
+### 78,714 円 | [New Inspiron 15 3000 プラチナ（光学ドライブ無・大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-15-3593-laptop/cai2651hllis08on3ojp)
 
 - Model: Inspiron 15 (3593)
 - Release: **2019-09**
@@ -153,7 +153,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Weight: 2.20kg～
 
 
-### 87,462円 | [New Inspiron 14 5000 プラチナ（大容量SSD・MX230搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx230%E6%90%AD%E8%BC%89/spd/inspiron-14-5490-laptop/cai325shlmcf08on3ojp)
+### 87,462 円 | [New Inspiron 14 5000 プラチナ（大容量SSD・MX230搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx230%E6%90%AD%E8%BC%89/spd/inspiron-14-5490-laptop/cai325shlmcf08on3ojp)
 
 - Model: Inspiron 14 (5490)
 - Release: **2019-09**
@@ -167,7 +167,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Weight: **1.42kg～**
 
 
-### 88,434円 | [Dell G3 15 プラチナ（GTX1050Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-gtx1050ti%E6%90%AD%E8%BC%89/spd/g-series-15-3579-laptop/cag1424hllg5s08on1ojp)
+### 88,434 円 | [Dell G3 15 プラチナ（GTX1050Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-gtx1050ti%E6%90%AD%E8%BC%89/spd/g-series-15-3579-laptop/cag1424hllg5s08on1ojp)
 
 - Model: Dell G3 15 (3579)
 - Release: 2018-04
@@ -187,7 +187,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ## 予算 11 万円以下
 
-### 105,282円 | [Dell G3 15 プラチナ（大容量メモリー・SSD+HDD・GTX1050Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-hdd-gtx1050ti%E6%90%AD%E8%BC%89/spd/g-series-15-3579-laptop/cag1427hll5s16on3ojp)
+### 105,282 円 | [Dell G3 15 プラチナ（大容量メモリー・SSD+HDD・GTX1050Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-hdd-gtx1050ti%E6%90%AD%E8%BC%89/spd/g-series-15-3579-laptop/cag1427hll5s16on3ojp)
 
 - Model: Dell G3 15 (3579)
 - Release: 2018-04
@@ -202,7 +202,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Weight: 2.53kg～
 
 
-### 109,494円 | [New Dell G3 15 プラチナ（大容量メモリー&SSD・GTX1650搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-gtx1650%E6%90%AD%E8%BC%89/spd/g-series-15-3590-laptop/cag2005hls5s16on4ojp)
+### 109,494 円 | [New Dell G3 15 プラチナ（大容量メモリー&SSD・GTX1650搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-gtx1650%E6%90%AD%E8%BC%89/spd/g-series-15-3590-laptop/cag2005hls5s16on4ojp)
 
 - Model: Dell G3 15 (3590)
 - Release: 2019-06
@@ -218,7 +218,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ## 予算 12 万円以下
 
-### 118,080円 | [New Inspiron 13 7000 プラチナ（大容量SSD・MX250搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-13-7000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx250%E6%90%AD%E8%BC%89/spd/inspiron-13-7391-laptop/cai1007hlw7s08on3ojp)
+### 118,080 円 | [New Inspiron 13 7000 プラチナ（大容量SSD・MX250搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-13-7000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx250%E6%90%AD%E8%BC%89/spd/inspiron-13-7391-laptop/cai1007hlw7s08on3ojp)
 
 - Model: Inspiron 13 (7391)
 - Release: **2019-09**
@@ -234,7 +234,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ## 予算 13 万円以下
 
-### 128,027円 | [New Dell G3 15 プラチナ（大容量メモリー・SSD+HDD・GTX1660Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-hdd-gtx1660ti%E6%90%AD%E8%BC%89/spd/g-series-15-3590-laptop/cag2005hls5s16on3ojp)
+### 128,027 円 | [New Dell G3 15 プラチナ（大容量メモリー・SSD+HDD・GTX1660Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-hdd-gtx1660ti%E6%90%AD%E8%BC%89/spd/g-series-15-3590-laptop/cag2005hls5s16on3ojp)
 
 - Model: Dell G3 15 (3590)
 - Release: 2019-06
