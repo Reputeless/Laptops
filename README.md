@@ -61,25 +61,25 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Storage: **1TB** 5400 rpm SATA HDD
 - Display: 15.6 inch / **1920 x 1080**
 - Option: **DVD ドライブ**
-- Weight: 2.20kg
+- Weight: 2.20kg～
 
 ※ 上記の基本構成のままでは 6 万円以上対象のクーポンを適用できないので、基本構成に加えて 5,020 円以上のオプション品（パーツ、セキュリティソフト、サポート等）を追加する。上記の価格は「ブラック パームレスト 指紋認証リーダー」2,000 円、「マカフィー® リブセーフ™ (24ヶ月間更新サービス)」4,000 円の 2 点を追加したもの。これにより、オプション品を追加してもなお基本構成より約 2,000 円安く購入できる
 
 
-## 予算 7 万円以下
+### 54,738 円 | [New Inspiron 14 5000 スタンダード](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89/spd/inspiron-14-5490-laptop/cai304shlmct04on3ojp)
 
-### 63,843 円 | [Inspiron 14 5000 【即納】プレミアム](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-5000-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0/spd/inspiron-14-5480-laptop/smi270whlbkf08on3tjp)
-
-- Model: Inspiron 14 (5480)
-- Release: 2018-10
+- Model: Inspiron 14 (5490)
+- Release: **2019-09**
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-8265U / 4C8T / 1.6GHz～3.9GHz / 6MB L3
-- iGPU: Intel UHD Graphics 620 / 24 units / 300MHz～1.10GHz
-- Memory: 8GB / **DDR4 2666MHz**
+- CPU: Core i3-10110U / 2C4T / **2.1GHz**～4.1GHz / 4MB L3
+- iGPU: Intel UHD Graphics / 24 units / 300MHz～1.00GHz
+- Memory: 4GB / **DDR4 2666MHz**
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
-- Weight: **1.48 kg～**
+- Weight: 1.42kg～
 
+
+## 予算 7 万円以下
 
 ### 64,717 円 | [New Inspiron 15 3000 プレミアム（光学ドライブ無・SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-ssd%E6%90%AD%E8%BC%89/spd/inspiron-15-3593-laptop/cai2541hllif08on3ojp)
 
@@ -94,9 +94,22 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Weight: 2.13 kg～
 
 
+### 67,374 円 | [New Inspiron 14 5000 プレミアム](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0/spd/inspiron-14-5490-laptop/cai270shlmcf08on3ojp)
+
+- Model: Inspiron 14 (5490)
+- Release: **2019-09**
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i5-10210U / 4C8T / 1.6GHz～4.2GHz / 6MB L3
+- iGPU: Intel UHD Graphics / 24 units / 300MHz～1.10GHz
+- Memory: 8GB / **DDR4 2666MHz**
+- Storage: 256GB **M.2 PCIe NVMe SSD**
+- Display: 14.0 inch / **1920 x 1080**
+- Weight: 1.42kg～
+
+
 ## 予算 8 万円以下
 
-### 74,340 円 | [New Inspiron 14 5000 プレミアム（MX230搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-mx230%E6%90%AD%E8%BC%89/spd/inspiron-14-5490-laptop/cai300shlmcf08on3ojp)
+### 71,586 円 | [New Inspiron 14 5000 プレミアム（MX230搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-mx230%E6%90%AD%E8%BC%89/spd/inspiron-14-5490-laptop/cai300shlmcf08on3ojp)
 
 - Model: Inspiron 14 (5490)
 - Release: **2019-09**
@@ -138,6 +151,20 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ## 予算 9 万円以下
 
+### 84,222 円 | [New Inspiron 14 5000 プラチナ（大容量SSD・MX230搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx230%E6%90%AD%E8%BC%89/spd/inspiron-14-5490-laptop/cai325shlmcf08on3ojp)
+
+- Model: Inspiron 14 (5490)
+- Release: **2019-09**
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i7-10510U / 4C8T / 1.8GHz～**4.9GHz** / **8MB L3**
+- **dGPU:** GeForce MX230 / 2GB GDDR5
+- iGPU: Intel UHD Graphics / 24 units / 300 MHz～**1.15 GHz**
+- Memory: 8GB / **DDR4 2666MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 14.0 inch / **1920 x 1080**
+- Weight: **1.42kg～**
+
+
 ### 84,838 円 | [New Inspiron 15 3000 プラチナ（大容量SSD・MX230搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx230%E6%90%AD%E8%BC%89/spd/inspiron-15-3593-laptop/cai304phllis08on3ojp)
 
 - Model: Inspiron 15 (3593)
@@ -151,20 +178,6 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Display: 15.6 inch / **1920 x 1080**
 - Option: **DVD ドライブ**
 - Weight: 2.20kg～
-
-
-### 87,462 円 | [New Inspiron 14 5000 プラチナ（大容量SSD・MX230搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx230%E6%90%AD%E8%BC%89/spd/inspiron-14-5490-laptop/cai325shlmcf08on3ojp)
-
-- Model: Inspiron 14 (5490)
-- Release: **2019-09**
-- OS: Windows 10 Home (64-bit) 
-- CPU: Core i7-10510U / 4C8T / 1.8GHz～**4.9GHz** / **8MB L3**
-- **dGPU:** GeForce MX230 / 2GB GDDR5
-- iGPU: Intel UHD Graphics / 24 units / 300 MHz～**1.15 GHz**
-- Memory: 8GB / **DDR4 2666MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 14.0 inch / **1920 x 1080**
-- Weight: **1.42kg～**
 
 
 ### 88,434 円 | [Dell G3 15 プラチナ（GTX1050Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-gtx1050ti%E6%90%AD%E8%BC%89/spd/g-series-15-3579-laptop/cag1424hllg5s08on1ojp)
@@ -218,7 +231,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ## 予算 12 万円以下
 
-### 118,080 円 | [New Inspiron 13 7000 プラチナ（大容量SSD・MX250搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-13-7000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx250%E6%90%AD%E8%BC%89/spd/inspiron-13-7391-laptop/cai1007hlw7s08on3ojp)
+### 113,706 円 | [New Inspiron 13 7000 プラチナ（大容量SSD・MX250搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-13-7000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx250%E6%90%AD%E8%BC%89/spd/inspiron-13-7391-laptop/cai1007hlw7s08on3ojp)
 
 - Model: Inspiron 13 (7391)
 - Release: **2019-09**
