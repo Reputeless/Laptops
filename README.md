@@ -76,7 +76,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Memory: 4GB / **DDR4 2666MHz**
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
-- Weight: 1.42kg～
+- Weight: **1.42kg～**
 
 
 ## 予算 7 万円以下
@@ -104,7 +104,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
-- Weight: 1.42kg～
+- Weight: **1.42kg～**
 
 
 ## 予算 8 万円以下
