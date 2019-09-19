@@ -20,15 +20,22 @@
 - Option: オプションの機能
 - Weight: 重量（そのモデルの最小構成での重量なので、これより大きい場合がある）
 
-### DELL でのクーポンの使用
+### DELL での学割の使用
 
 DELL で PC を購入する場合、[デル 学割キャンペーンページ](https://www.dell.com/learn/jp/ja/63/campaigns/student-purchase-program-university-open) のフォームに申請すると、通常のクーポンにさらに +2% 割引が上乗せされたクーポンが発行される。
 
-- 学割キャンペーン対象者
+- 学割対象者
   - 小学校、中学校、高等学校、大学、専門学校の学生、またその学校に進学が決定した生徒
   - 大学受験予備校に在籍する学生
   - 小・中・高・大学・専門学校の教職員
 
+### Lenovo での学割の使用
+
+Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/jp/ja/forms/wm-edm-opinedu/) を利用すると、商品が少しだけ値下げされる。
+
+- 学割対象者
+  - 高等学校、大学、専門学校の学生、またその学校に進学が決定した生徒
+  - 大学受験予備校に在籍する学生
 
 ## 予算 4 万円以下
 
@@ -47,8 +54,37 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ## 予算 5 万円以下
 
+### 47,509 円 | [ThinkPad E490：スタンダード](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/thinkpad/e-series/E490/p/20N8CTO1WWJAJP1)
+
+- Model: ThinkPad E490
+- Release: 2019-01
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i3-8145U / 2C4T / **2.1GHz**～3.9GHz / 4MB L3
+- iGPU: Intel UHD Graphics 620 / 24 units / 300MHz～1.00GHz
+- Memory: 4GB / DDR4 2400MHz
+- Storage: **500GB** 7200 rpm SATA HDD
+- Display: 14.0 inch / **1920 x 1080**
+- Weight: 1.75kg～
+
+※ 追加のカスタマイズで性能向上可能
+
 
 ## 予算 6 万円以下
+
+### 50,944 円 | [ThinkPad E490：スタンダード](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/thinkpad/e-series/E490/p/20N8CTO1WWJAJP1)
+
+- Model: ThinkPad E490
+- Release: 2019-01
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i3-8145U / 2C4T / **2.1GHz**～3.9GHz / 4MB L3
+- iGPU: Intel UHD Graphics 620 / 24 units / 300MHz～1.00GHz
+- Memory: 4GB / DDR4 2400MHz
+- Storage: 256GB M.2 SSD
+- Display: 14.0 inch / **1920 x 1080**
+- Weight: 1.75kg～
+
+※ 追加のカスタマイズで性能向上可能
+
 
 ### 53,345 円 | [New Inspiron 15 3000 スタンダード](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89/spd/inspiron-15-3593-laptop/cai1062hllit04on3ojp)
 
@@ -79,7 +115,38 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Weight: **1.42kg～**
 
 
+### 55,523 円 | [ThinkPad E490：スタンダード](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/thinkpad/e-series/E490/p/20N8CTO1WWJAJP1)
+
+- Model: ThinkPad E490
+- Release: 2019-01
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i3-8145U / 2C4T / **2.1GHz**～3.9GHz / 4MB L3
+- iGPU: Intel UHD Graphics 620 / 24 units / 300MHz～1.00GHz
+- Memory: 8GB / DDR4 2400MHz
+- Storage: 256GB M.2 SSD
+- Display: 14.0 inch / **1920 x 1080**
+- Weight: 1.75kg～
+
+※ 追加のカスタマイズで性能向上可能
+
+
 ## 予算 7 万円以下
+
+### 61,819 円 | [ThinkPad E490：スタンダード](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/thinkpad/e-series/E490/p/20N8CTO1WWJAJP1)
+
+- Model: ThinkPad E490
+- Release: 2019-01
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i3-8145U / 2C4T / **2.1GHz**～3.9GHz / 4MB L3
+- **dGPU:** Radeon RX 550X / 2GB GDDR5
+- iGPU: Intel UHD Graphics 620 / 24 units / 300MHz～1.00GHz
+- Memory: 8GB / DDR4 2400MHz
+- Storage: 256GB M.2 SSD
+- Display: 14.0 inch / **1920 x 1080**
+- Weight: 1.75kg～
+
+※ 追加のカスタマイズで性能向上可能
+
 
 ### 64,717 円 | [New Inspiron 15 3000 プレミアム（光学ドライブ無・SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-ssd%E6%90%AD%E8%BC%89/spd/inspiron-15-3593-laptop/cai2541hllif08on3ojp)
 
@@ -105,6 +172,23 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
 - Weight: **1.42kg～**
+
+
+### 68,688 円 | [ThinkPad E490：パフォーマンス・FHD搭載](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/thinkpad/e-series/E490/p/20N8CTO1WWJAJP9)
+
+- Model: ThinkPad E490
+- Release: 2019-01
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i5-8265U / 4C8T / 1.6GHz～3.9GHz / 6MB L3
+- **dGPU:** Radeon RX 550X / 2GB GDDR5
+- iGPU: Intel UHD Graphics 620 / 24 units / 300MHz～1.10GHz
+- Memory: 8GB / DDR4 2400MHz
+- Storage1: 16GB **Intel Optane Memory**
+- Storage2: **1TB** 5400 rpm SATA HDD
+- Display: 14.0 inch / **1920 x 1080**
+- Weight: 1.75kg～
+
+※ 追加のカスタマイズで性能向上可能
 
 
 ## 予算 8 万円以下
