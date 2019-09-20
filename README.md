@@ -31,7 +31,7 @@ DELL で PC を購入する場合、[デル 学割キャンペーンページ](h
 
 ### Lenovo での学割の使用
 
-Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/jp/ja/forms/wm-edm-opinedu/) を利用すると、商品が少しだけ値下げされる。
+Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/jp/ja/forms/wm-edm-opinedu/) を利用すると、基本価格やカスタマイズに割引が適用される。
 
 - 学割対象者
   - 高等学校、大学、専門学校の学生、またその学校に進学が決定した生徒
