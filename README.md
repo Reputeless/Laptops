@@ -71,7 +71,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 6 万円以下
 
-### 51,700 円 | [ThinkBook 14 - ミネラルグレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/s500-series/Lenovo-IdeaPad-S540-14IWL/p/88IPS501190)
+### 51,700 円 | [ThinkBook 14 - ミネラルグレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/thinkpad/thinkbook-series/Lenovo-ThinkBook-14-IML/p/XXTBXTM8000)
 
 - Model: ThinkBook 14 (I3) (20RV006KJP)
 - Release: **2019-10**
@@ -275,7 +275,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 10 万円以下
 
-### 90,072 円 | [Dell G3 15　プレミアム（大容量SSD・GTX1050搭載）](https://www.dell.com/ja-jp/shop/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3pc-%E3%83%A2%E3%83%8B%E3%82%BF%E4%BB%96%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E8%B3%BC%E5%85%A5-%E5%80%8B%E4%BA%BA%E5%90%91%E3%81%91/dell-g3-15-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-gtx1050%E6%90%AD%E8%BC%89/spd/g-series-15-3590-laptop/cag2005hls5f08on4ojp)
+### 90,072 円 | [Dell G3 15 プレミアム（大容量SSD・GTX1050搭載）](https://www.dell.com/ja-jp/shop/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3pc-%E3%83%A2%E3%83%8B%E3%82%BF%E4%BB%96%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E8%B3%BC%E5%85%A5-%E5%80%8B%E4%BA%BA%E5%90%91%E3%81%91/dell-g3-15-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-gtx1050%E6%90%AD%E8%BC%89/spd/g-series-15-3590-laptop/cag2005hls5f08on4ojp)
 
 - Model: Dell G3 15 (3590)
 - Release: 2019-06
