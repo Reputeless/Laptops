@@ -197,7 +197,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - CPU: Core i5-1035G1 / 4C8T / 1.0GHz～3.6GHz / 6MB L3
 - iGPU: Intel UHD Graphics **Gen11** / **32 units** / 300 MHz～1.05 GHz
 - Memory: 8GB / **DDR4 2666MHz**
-- Storage: 512GB **M.2 PCIe NVMe SSD**
+- Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
 - Weight: 1.55kg～
 
