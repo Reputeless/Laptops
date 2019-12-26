@@ -322,7 +322,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 ### 115,940 円 | [Lenovo YOGA S740 - アイアングレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/yoga/yoga-s-series/Lenovo-Yoga-S740-14IIL/p/81RS0022JP)
 
 - Model: Yoga S740 (14)) (81RS0022JP)
-- Release: 2019-09
+- Release: **2019-09**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / **8MB L3**
 - iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
