@@ -72,19 +72,6 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 6 万円以下
 
-### 51,612 円 | [Lenovo Ideapad S340 - プラチナグレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/s300-series/Lenovo-IdeaPad-S340-14API/p/81NB0029JP)
-
-- Model: Ideapad S340 (14, AMD) (81NB0029JP)
-- Release: 2019-05
-- OS: Windows 10 Home (64-bit) 
-- CPU: Ryzen 5 3500U / 4C8T / **2.1GHz**～3.7GHz / 4MB L3
-- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～1.1GHz
-- Memory: 8GB / DDR4 2400MHz
-- Storage: 256GB **M.2 PCIe NVMe SSD**
-- Display: 14.0 inch / **1920 x 1080**
-- Weight: 1.55kg
-
-
 ### 58,751 円 | [Lenovo IdeaPad S540 - ミネラルグレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/s500-series/Lenovo-IdeaPad-S540-14IWL/p/88IPS501190)
 
 - Model: Ideapad S540 (14) (81NF000VJP)
