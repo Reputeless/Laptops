@@ -370,7 +370,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: 2019-06
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1660Ti Max-Q** / **6GB GDDR6**
+- **dGPU:** **GeForce GTX 1660 Ti Max-Q** / **6GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
@@ -384,12 +384,26 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: 2019-06
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i5-9300H / 4C8T / **2.4GHz**～4.1GHz / **8MB L3**
-- **dGPU:** **GeForce GTX 1660Ti** / **6GB GDDR6**
+- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 17.3 inch / **1920 x 1080**
 - Weight: 3.14kg～
+
+
+### 127,315 円 | [ASUS FX505DT (Amazon.co.jp モデル)](https://amzn.to/2Ql6rhh)
+
+- Model: ASUS FX505DT (A7G1660T)
+- Release: **2019-11**
+- OS: Windows 10 Home (64-bit) 
+- CPU: Ryzen 7 3750H / 4C8T / **2.3GHz**～4.0GHz / 4MB L3
+- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
+- iGPU: **Radeon RX Vega 10** / 10 CUs (640 pipelines) / ～**1.3GHz**
+- Memory: **16GB** / DDR4 2400MHz
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080** / **120Hz**
+- Weight: 2.25kg
 
 
 ### 128,682 円 | [Dell G5 15 プラチナ（GTX1660Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g5-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-gtx1660ti%E6%90%AD%E8%BC%89/spd/g-series-15-5590-laptop/cag7051hlvus08on5ojp)
@@ -398,7 +412,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: 2019-06
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1660Ti** / **6GB GDDR6**
+- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
 - Memory: 8GB / **DDR4 2666MHz**
 - Storage1: 256GB **M.2 PCIe NVMe SSD**
@@ -415,7 +429,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: 2019-06
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1660Ti Max-Q** / **6GB GDDR6**
+- **dGPU:** **GeForce GTX 1660 Ti Max-Q** / **6GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
 - Memory: **16GB** / **DDR4 2666MHz**
 - Storage1: 256GB **M.2 PCIe NVMe SSD**
@@ -446,7 +460,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: 2019-06
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1660Ti** / **6GB GDDR6**
+- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
 - Memory: **16GB** / **DDR4 2666MHz**
 - Storage1: 256GB **M.2 PCIe NVMe SSD**
