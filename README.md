@@ -243,22 +243,6 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 11 万円以下
 
-### 101,640 円 | [Lenovo Legion Y7000：スタンダード (カスタマイズ)](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-y-series/Lenovo-Legion-Y7000-2019/p/88GMY501215)
-
-- Model: Lenovo Legion Y7000
-- Release: 2019-06
-- OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-9300H / 4C8T / **2.4GHz**～4.1GHz / **8MB L3**
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
-- Memory: 8GB / **DDR4 2666MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080** / **144Hz**
-- Weight: 2.3kg～
-
-※ 追加のカスタマイズで性能向上可能
-
-
 ### 107,690 円 | [Lenovo Legion Y7000：スタンダード (カスタマイズ)](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-y-series/Lenovo-Legion-Y7000-2019/p/88GMY501215)
 
 - Model: Lenovo Legion Y7000
