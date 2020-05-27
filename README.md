@@ -267,8 +267,8 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**1.2GHz**
 - Memory: **16GB** / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080**
-- Weight: 2.3kg / **144Hz**
+- Display: 15.6 inch / **1920 x 1080** / **144Hz**
+- Weight: 2.3kg
 
 
 ## 予算 13 万円以下
