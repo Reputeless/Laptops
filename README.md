@@ -228,6 +228,19 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 11 万円以下
 
+### 108,800 円 | [ASUS TUF Gaming A15 FA506IH (Amazon.co.jp モデル)](https://amzn.to/2X3kEnA)
+
+- Model: ASUS FA506IH (R5G1650)
+- Release: **2020-05**
+- OS: Windows 10 Home (64-bit) 
+- CPU: **Ryzen 7 4600HS** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
+- **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
+- iGPU: **Radeon RX Vega 6** / 6 CUs (384 pipelines) / ～**1.5GHz**
+- Memory: 8GB / **DDR4 3200MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080** / **144Hz**
+- Weight: 2.3kg
+
 ### 109,806 円 | [Inspiron 13 7000 プラチナ（大容量SSD・MX250搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-13-7000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx250%E6%90%AD%E8%BC%89/spd/inspiron-13-7391-laptop/cai1007hlw7s08on3ojp)
 
 - Model: Inspiron 13 (7391)
