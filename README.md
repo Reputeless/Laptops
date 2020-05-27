@@ -325,3 +325,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.3kg
+
+## 予算 14 万円以下
+
+（ランクインなし。上記を買ったほうが良い）
