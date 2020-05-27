@@ -96,7 +96,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i5-1035G1 / 4C8T / 1.0GHz～3.6GHz / 6MB L3
 - iGPU: Intel UHD Graphics **Gen11** / **32 units** / 300 MHz～1.05 GHz
-- Memory: 8GB / **DDR4 2666MHz**
+- Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
 - Weight: 1.55kg～
@@ -108,7 +108,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / **8MB L3**
 - iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
-- Memory: 8GB / **DDR4 2666MHz**
+- Memory: 8GB / DDR4 2666MHz
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
 - Weight: 1.55kg～
@@ -123,7 +123,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / **8MB L3**
 - iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
-- Memory: 8GB / **DDR4 2666MHz**
+- Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 1.85kg～
@@ -165,7 +165,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / **8MB L3**
 - **dGPU:** GeForce MX230 / 2GB GDDR5
 - iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
-- Memory: 8GB / **DDR4 2666MHz**
+- Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
 - Option: **DVD ドライブ**
@@ -178,7 +178,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / **8MB L3**
 - iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
-- Memory: **16GB** / **DDR4 2666MHz**
+- Memory: **16GB** / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 1.83kg～
@@ -207,7 +207,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - CPU: Core i7-10510U / 4C8T / 1.8GHz～**4.9GHz** / **8MB L3**
 - **dGPU:** GeForce MX230 / 2GB GDDR5
 - iGPU: Intel UHD Graphics / 24 units / 300 MHz～**1.15 GHz**
-- Memory: **16GB** / **DDR4 2666MHz**
+- Memory: **16GB** / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080** / **タッチディスプレイ**
 - Weight: 1.67kg～
@@ -281,7 +281,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
 - **dGPU:** **GeForce GTX 1660 Ti Max-Q** / **6GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
-- Memory: 8GB / **DDR4 2666MHz**
+- Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.34kg～
@@ -318,7 +318,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: ASUS FA506IU (R7G1660T)
 - Release: **2020-05**
 - OS: Windows 10 Home (64-bit) 
-- CPU: **Ryzen 7 4800H** / **8C16T** / **2.9GHz～4.2GHz** / **4MB L2 + 8MB L3**
+- CPU: **Ryzen 7 4800HS** / **8C16T** / **2.9GHz～4.2GHz** / **4MB L2 + 8MB L3**
 - **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
 - iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**1.2GHz**
 - Memory: **16GB** / **DDR4 3200MHz**
