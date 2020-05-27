@@ -53,7 +53,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-04**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 5 3500U / 4C8T / **2.1GHz**～3.7GHz / 4MB L3
-- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～1.1GHz
+- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**1.2GHz**
 - Memory: 8GB / DDR4 2400MHz
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
@@ -68,7 +68,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-04**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 5 3500U / 4C8T / **2.1GHz**～3.7GHz / 4MB L3
-- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～1.1GHz
+- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**1.2GHz**
 - Memory: 8GB / DDR4 2400MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
@@ -80,7 +80,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-04**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 7 3700U / 4C8T / **2.3GHz**～4.0GHz / 4MB L3
-- iGPU: **Radeon RX Vega 10** / 10 CUs (640 pipelines) / ～**1.3GHz**
+- iGPU: **Radeon RX Vega 10** / 10 CUs (640 pipelines) / ～**1.4GHz**
 - Memory: 8GB / DDR4 2400MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
@@ -148,7 +148,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 5 3550H / 4C8T / **2.1GHz**～3.7GHz / 4MB L3
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
-- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～1.2GHz
+- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**1.2GHz**
 - Memory: 8GB / DDR4 2400MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
@@ -199,7 +199,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 2.34kg～
 
-### 95,220 円 | [nspiron 14 5000 2-in-1 プラチナ（大容量メモリー&SSD・MX230搭載）](https://www.dell.com/ja-jp/shop/2-in-1-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-5000-2-in-1-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-mx230%E6%90%AD%E8%BC%89/spd/inspiron-14-5491-2-in-1-laptop/cai5019hlb2s16on3ojp)
+### 95,220 円 | [Inspiron 14 5000 2-in-1 プラチナ（大容量メモリー&SSD・MX230搭載）](https://www.dell.com/ja-jp/shop/2-in-1-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-5000-2-in-1-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-mx230%E6%90%AD%E8%BC%89/spd/inspiron-14-5491-2-in-1-laptop/cai5019hlb2s16on3ojp)
 
 - Model: Inspiron 14 5000 2-in-1 (5491)
 - Release: 2019-06
@@ -209,7 +209,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - iGPU: Intel UHD Graphics / 24 units / 300 MHz～**1.15 GHz**
 - Memory: **16GB** / **DDR4 2666MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 14.0 inch / **1920 x 1080**
+- Display: 14.0 inch / **1920 x 1080** / **タッチディスプレイ**
 - Weight: 1.67kg～
 
 ### 99,800 円 | [ASUS TUF Gaming FX505DT (Amazon.co.jp モデル)](https://amzn.to/3bDOe8j)
@@ -219,7 +219,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 7 3750H / 4C8T / **2.3GHz**～4.0GHz / 4MB L3
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
-- iGPU: **Radeon RX Vega 10** / 10 CUs (640 pipelines) / ～**1.3GHz**
+- iGPU: **Radeon RX Vega 10** / 10 CUs (640 pipelines) / ～**1.4GHz**
 - Memory: **16GB** / DDR4 2400MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
@@ -273,7 +273,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 13 万円以下
 
-### 120,102 円 | [Dell G3 15　プラチナ（GTX1660Ti搭載）](https://www.dell.com/ja-jp/shop/gaming-and-games/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-gtx1660ti%E6%90%AD%E8%BC%89/spd/g-series-15-3590-laptop/cag2005hls5s08on3ojp)
+### 120,102 円 | [Dell G3 15 プラチナ（GTX1660Ti搭載）](https://www.dell.com/ja-jp/shop/gaming-and-games/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-gtx1660ti%E6%90%AD%E8%BC%89/spd/g-series-15-3590-laptop/cag2005hls5s08on3ojp)
 
 - Model: Dell G3 15 (3590)
 - Release: 2019-06
