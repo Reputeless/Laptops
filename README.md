@@ -150,7 +150,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - CPU: Ryzen 5 3550H / 4C8T / **2.1GHz**～3.7GHz / 4MB L3
 - **dGPU:** **Radeon RX 5300M** / **3GB GDDR6**
 - iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**1.2GHz**
-- Memory: 8GB / DDR4 2400MHz?
+- Memory: 8GB / DDR4 2666MHz?
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
 - Weight: 2.3kg
