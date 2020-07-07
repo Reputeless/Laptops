@@ -157,32 +157,6 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 9 万円以下
 
-### 80,500 円 | [ASUS TUF Gaming FX505DT (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5401103600)
-
-- Model: ASUS FX505DT (FX505DT-R5G1650METS)
-- Release: **2020-04**
-- OS: Windows 10 Home (64-bit) 
-- CPU: Ryzen 5 3550H / 4C8T / **2.1GHz**～3.7GHz / 4MB L3
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
-- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**1.2GHz**
-- Memory: 8GB / DDR4 2400MHz
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080** / **120Hz**
-- Weight: 2.25kg
-
-### 81,954 円 | [New Inspiron 15 5000 プレミアム（大容量SSD・MX330搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-5000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-mx330%E6%90%AD%E8%BC%89/spd/inspiron-15-5501-laptop/cai3310spm5f08on3ojp)
-
-- Model: New Inspiron 15 (5501)
-- Release: **2020-06**
-- OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-1035G1 / 4C8T / 1.0GHz～3.6GHz / 6MB L3
-- **dGPU:** GeForce MX330 / 2GB GDDR5
-- iGPU: Intel UHD Graphics **Gen11** / **32 units** / 300 MHz～1.05 GHz
-- Memory: 8GB / **DDR4 3200MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080**
-- Weight: 1.71kg～
-
 ### 89,082 円 | [Inspiron 15 5000 プラチナ（光学ドライブ無・大容量メモリー&SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-5000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd%E6%90%AD%E8%BC%89/spd/inspiron-15-5593-laptop/cai3453hll5s16on3ojp)
 
 - Model: Inspiron 15 (5593)
