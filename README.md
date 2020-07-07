@@ -255,7 +255,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 13.3 inch / **1920 x 1080**
 - Weight: **0.955kg～**
 
-### 114,800 円 | [ASUS ROG Strix G(Amazon.co.jp モデル)](https://amzn.to/2ZMvSNC)
+### 114,800 円 | [ASUS ROG Strix G (Amazon.co.jp モデル)](https://amzn.to/2ZMvSNC)
 
 - Model: ROG Strix G G531GT (G531GT-I7G1650)
 - Release: 2019-07
