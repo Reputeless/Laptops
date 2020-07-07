@@ -271,34 +271,8 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 13 万円以下
 
-### 123,948 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/p/88GMY501438)
-
-- Model: Lenovo Legion 550Pi (82AY001TJP)
-- Release: **2020-05**
-- OS: Windows 10 Home (64-bit) 
-- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
-- Memory: **16GB** / **DDR4 2933MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080**
-- Weight: 2.3kg～
-
 
 ## 予算 14 万円以下
-
-### 132,366 円 | [New Dell G5 15 プレミアム（RX5600M搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-dell-g5-15-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-rx5600m%E6%90%AD%E8%BC%89/spd/g-series-15-5505-laptop/cag1000spsaa08on3ojp)
-
-- Model: Dell G5 15 SE (5505)
-- Release: **2020-05**
-- OS: Windows 10 Home (64-bit) 
-- CPU: **Ryzen 5 4600H** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
-- **dGPU:** **Radeon RX 5600M** / **6GB GDDR6**
-- iGPU: **Radeon RX Vega 6** / 6 CUs (384 pipelines) / ～**1.5GHz**
-- Memory: 8GB / **DDR4 3200MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080**
-- Weight: 2.5kg～
 
 ### 136,629 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/p/88GMY501438)
 
