@@ -268,18 +268,6 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.3kg
 
-### 118,671 円 | [New Dell G3 15 プラチナ（GTX1650搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-gtx1650%E6%90%AD%E8%BC%89/spd/g-series-15-3500-laptop/cag1600spsms08on3ojp)
-
-- Model: Dell G3 15 (3500)
-- Release: **2020-05**
-- OS: Windows 10 Home (64-bit) 
-- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
-- Memory: 8GB / **DDR4 2933MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080**
-- Weight: 2.34kg～
 
 ## 予算 13 万円以下
 
