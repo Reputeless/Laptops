@@ -208,7 +208,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
 - Memory: 8GB / **DDR4 2933MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080** / touch
+- Display: 15.6 inch / **1920 x 1080**
 - Weight: 2.3kg～
 
 ### 97,992 円 | [New Inspiron 14 5000 2-in-1 プラチナ（大容量メモリー&SSD搭載）](https://www.dell.com/ja-jp/shop/2-in-1-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-2-in-1-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd%E6%90%AD%E8%BC%89/spd/inspiron-14-5400-2-in-1-laptop/cai5012sphis16on3ojp)
