@@ -255,6 +255,19 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 13.3 inch / **1920 x 1080**
 - Weight: **0.955kg～**
 
+### 114,800 円 | [ASUS ROG Strix G(Amazon.co.jp モデル)](https://amzn.to/2ZMvSNC)
+
+- Model: ROG Strix G G531GT (G531GT-I7G1650)
+- Release: 2019-07
+- OS: Windows 10 Home (64-bit) 
+- CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
+- **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
+- Memory: 8GB / DDR4 2666MHz
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080** / **120Hz**
+- 2.395kg
+
 ### 115,500 円 | [ASUS TUF Gaming A15 FA506II (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5414113500)
 
 - Model: ASUS FA506II (R7G1650T)
