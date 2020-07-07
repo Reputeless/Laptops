@@ -81,7 +81,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-06**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 5 4500U / 6C6T / **2.3GHz**～4.0GHz / **3MB L2 + 8MB L3**
-- iGPU: AMD Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5 GHz**
+- iGPU: **Radeon RX Vega 6** / 6 CUs (384 pipelines) / ～**1.5 GHz**
 - Memory: 8GB / DDR4 2666MHz
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
@@ -108,7 +108,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-06**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 5 4500U / 6C6T / **2.3GHz**～4.0GHz / **3MB L2 + 8MB L3**
-- iGPU: AMD Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5 GHz**
+- iGPU: **Radeon RX Vega 6** / 6 CUs (384 pipelines) / ～**1.5 GHz**
 - Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
@@ -136,7 +136,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-06**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 7 4700U / **8C8T** / **2.0GHz～4.1GHz** / **4MB L2 + 8MB L3**
-- iGPU: AMD Radeon RX Vega 7 / 7 CUs (448 pipelines) / ～**1.6 GHz**
+- iGPU: **Radeon RX Vega 7** / 7 CUs (448 pipelines) / ～**1.6 GHz**
 - Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
