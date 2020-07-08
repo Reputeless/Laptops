@@ -157,6 +157,19 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 9 万円以下
 
+### 81,536 円 | [Lenovo IdeaPad L340 Gaming - ブラック](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/l-series/IdeaPad-L340-15IRH-Gaming/p/88IPL301161)
+
+- Model: Lenovo IdeaPad L340 Gaming (81LK01M8JP)
+- Release: **2020-06**
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i5-9300H / 4C8T / **2.4GHz**～4.1GHz / **8MB L3**
+- **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
+- Memory: 8GB / DDR4 2400MHz
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080** / **120Hz**
+- Weight: 2.19kg
+
 ### 89,082 円 | [Inspiron 15 5000 プラチナ（光学ドライブ無・大容量メモリー&SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-5000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E7%84%A1-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd%E6%90%AD%E8%BC%89/spd/inspiron-15-5593-laptop/cai3453hll5s16on3ojp)
 
 - Model: Inspiron 15 (5593)
