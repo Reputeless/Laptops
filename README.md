@@ -353,13 +353,13 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.34kg～
 
-### 129,500 円 | [ASUS TUF Gaming A15 FA506IH (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5414113600/varProductID.5414113600/categoryID.4999073900)
+### 128,800 円 | [ASUS TUF Gaming A15 FA506II (Amazon.co.jp モデル)](https://amzn.to/3fuJtyU)
 
-- Model: ASUS FA506IH (R7G1650)
+- Model: ASUS FA506II (R7G1650T)
 - Release: **2020-05**
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Ryzen 7 4800HS** / **8C16T** / **2.9GHz～4.2GHz** / **4MB L2 + 8MB L3**
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
+- **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
 - iGPU: **Radeon RX Vega 7** / 7 CUs (448 pipelines) / ～**1.6GHz**
 - Memory: **16GB** / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
