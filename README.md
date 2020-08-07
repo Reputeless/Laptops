@@ -49,7 +49,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 5 万円以下
 
-### 46,837 円 | [Lenovo Ideapad S340 - プラチナグレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/s300-series/Lenovo-IdeaPad-S340-14API/p/88IPS301218)
+### 46,552 円 | [Lenovo Ideapad S340 - プラチナグレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/s300-series/Lenovo-IdeaPad-S340-14API/p/88IPS301218)
 
 - Model: Lenovo IdeaPad S340 (14, AMD) (81NB0029JP)
 - Release: 2019-05
