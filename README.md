@@ -369,7 +369,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 2.3 kg～
 
-### 117,909 円 | [ASUS TUF Gaming A15 FA506IH (Amazon.co.jp モデル)](https://amzn.to/3hlKslI)
+### 119,090 円 | [ASUS TUF Gaming A15 FA506IH (Amazon.co.jp モデル)](https://amzn.to/3hlKslI)
 
 - Model: ASUS FA506IH (FA506IH-R7G1650)
 - Release: **2020-05**
