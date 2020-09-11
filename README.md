@@ -140,7 +140,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Memory: 8GB / DDR4 2400MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
-- Weight: 2.25kg
+- Weight: 2.25 kg
 
 ### 76,660 円 | [MSI Alpha-15-A3DC-242JP (Amazon.co.jp)](https://amzn.to/38BeH5m)
 
@@ -153,7 +153,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Memory: 8GB / DDR4 2666MHz?
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
-- Weight: 2.3kg
+- Weight: 2.3 kg
 
 ### 77,660 円 | [New Inspiron 14 5000 プラチナ（大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-5000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-14-5405-laptop/cai104ahlm4a08on3ojp)
 
@@ -177,7 +177,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Memory: **16GB** / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
-- Weight: 1.83kg～
+- Weight: 1.83 kg～
 
 ### 79,800 円 | [ASUS TUF Gaming FX505DT-R5G1650AS (Amazon.co.jp)](https://amzn.to/2RepACD)
 
@@ -190,7 +190,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Memory: **16GB** / DDR4 2400MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
-- Weight: 2.25kg
+- Weight: 2.25 kg
 
 ## 予算 9 万円以下
 
@@ -234,6 +234,19 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 
 ## 予算 10 万円以下
+
+### 91,799 円 | [Dell G3 15 3500（Amazon.co.jp モデル）](https://amzn.to/2Zt0oMX)
+
+- Model: Dell G3 15 3500 (NG355A-ANLB)
+- Release: **2020-05**
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i5-10300H / 4C8T / **2.5GHz～4.5GHz** / **8MB L3**
+- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
+- Memory: 8GB / **DDR4 2933MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080**
+- Weight: 2.34 kg～
 
 ### 93,280 円 | [Lenovo IdeaPad C340 - プラチナ](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/c-3-series/Lenovo-IdeaPad-C340-14IWL/p/81TK001FJP)
 
@@ -285,33 +298,6 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.25 kg
 
-### 97,992 円 | [Dell G3 15 プレミアム（120Hz・SSD+HDD・GTX1650搭載）](https://www.dell.com/ja-jp/shop/%E5%85%A8%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC%E3%81%AE%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E4%B8%80%E8%A6%A7/dell-g3-15-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-120hz-ssd-hdd-gtx1650%E6%90%AD%E8%BC%89/spd/g-series-15-3500-laptop/cag6000hlsmf08on3ojp)
-
-- Model: Dell G3 15
-- Release: **2020-05**
-- OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-10300H / 4C8T / **2.5GHz～4.5GHz** / **8MB L3**
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
-- Memory: 8GB / **DDR4 2933MHz**
-- Storage1: 256GB **M.2 PCIe NVMe SSD**
-- Storage2: **1TB** 5400 rpm SATA HDD
-- Display: 15.6 inch / **1920 x 1080** / **120Hz**
-- Weight: 2.34 kg～
-
-### 98,494 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/p/82AY001SJP)
-
-- Model: Legion 550Pi (第10世代インテル) (82AY001SJP)
-- Release: **2020-05**
-- OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-10300H / 4C8T / **2.5GHz～4.5GHz** / **8MB L3**
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
-- Memory: 8GB / **DDR4 2933MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080**
-- Weight: 2.3 kg～
-
 
 ## 予算 11 万円以下
 
@@ -327,6 +313,19 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
 - Weight: 1.9 kg
+
+### 109,800 円 | [Dell G3 15 3500（Amazon.co.jp モデル）](https://amzn.to/3bYZj4R)
+
+- Model: Dell G3 15 3500 (NG375A-ANLB)
+- Release: **2020-05**
+- OS: Windows 10 Home (64-bit) 
+- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
+- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
+- Memory: 8GB / **DDR4 2933MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080**
+- Weight: 2.34 kg～
 
 ## 予算 12 万円以下
 
@@ -344,18 +343,18 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 2.19 kg～
 
-### 113,139 円 | [Dell G3 15 プラチナ（120Hz・GTX1650搭載）](https://www.dell.com/ja-jp/shop/gaming-and-games/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-120hz-gtx1650%E6%90%AD%E8%BC%89/spd/g-series-15-3500-laptop/cag6101hlsms08on3ojp)
+### 112,800 円 | [Dell G5 15 SE 5505（Amazon.co.jp モデル）](https://amzn.to/2FaKgZS)
 
-- Model: Dell G3 15
+- Model: Dell G5 15 SE 5505 (NG565A-ANLS)
 - Release: **2020-05**
 - OS: Windows 10 Home (64-bit) 
-- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
-- Memory: 8GB / **DDR4 2933MHz**
+- CPU: **Ryzen 5 4600H** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
+- **dGPU:** **Radeon RX 5600M** / **6GB GDDR6**
+- iGPU: **Radeon RX Vega 6** / 6 CUs (384 pipelines) / ～**1.5GHz**
+- Memory: 8GB / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080** / **120Hz**
-- Weight: 2.34 kg～
+- Display: 15.6 inch / **1920 x 1080**
+- Weight: 2.5 kg～
 
 ### 117,751 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/p/82AY001TJP)
 
@@ -386,6 +385,19 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ## 予算 13 万円以下
 
+### 123,310 円 | [Dell G3 15 3500（Amazon.co.jp モデル）](https://amzn.to/3k29S9K)
+
+- Model: Dell G3 15 3500 (NG385VRA-ANLB)
+- Release: **2020-05**
+- OS: Windows 10 Home (64-bit) 
+- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
+- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
+- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
+- Memory: **16GB** / **DDR4 2933MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080** / **144Hz**
+- Weight: 2.34 kg～
+
 ### 124,800 円 | [ASUS TUF Gaming A15 FA506II (Amazon.co.jp モデル)](https://amzn.to/3fuJtyU)
 
 - Model: ASUS FA506II (R7G1650T)
@@ -399,34 +411,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.3 kg
 
-### 129,177 円 | [Dell G3 15 プラチナ（144Hz・大容量メモリー・GTX1650Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g3-15-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-144hz-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-gtx1650ti%E6%90%AD%E8%BC%89/spd/g-series-15-3500-laptop/cag1700spsms16on3ojp)
-
-- Model: Dell G3 15
-- Release: **2020-05**
-- OS: Windows 10 Home (64-bit) 
-- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
-- Memory: **16GB** / **DDR4 2933MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080** / **144Hz**
-- Weight: 2.34 kg～
-
 ## 予算 14 万円以下
-
-### 134,878 円 | [Lenovo Legion Y540 - ブラック](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-y-series/Lenovo-Legion-Y540-15/p/81SX0154JP)
-
-- Model: Legion Y540 (15) (第9世代インテル) (81SX0154JP)
-- Release: **2020-07**
-- OS: Windows 10 Home (64-bit) 
-- CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
-- Memory: **16GB** / DDR4 2666MHz
-- Storage1: 256GB **M.2 PCIe NVMe SSD**
-- Storage2: **1TB** 5400 rpm SATA HDD
-- Display: 15.6 inch / **1920 x 1080**
-- Weight: 2.3 kg～
 
 ### 135,190 円 | [Lenovo Legion Y7000 - ブラック](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-y-series/Lenovo-Legion-Y7000-2019/p/88GMY501215)
 
@@ -442,18 +427,18 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.3 kg～
 
-### 136,629 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/p/88GMY501438)
+### 136,800 円 | [Dell G5 15 SE 5505（Amazon.co.jp モデル）](https://amzn.to/3maNFbB)
 
-- Model: Lenovo Legion 550Pi (82AW0035JP)
+- Model: Dell G5 15 SE 5505 (NG595A-ANLS)
 - Release: **2020-05**
 - OS: Windows 10 Home (64-bit) 
-- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
-- Memory: **16GB** / **DDR4 2933MHz**
+- CPU: **Ryzen 7 4800H** / **8C16T** / **2.9GHz～4.2GHz** / **4MB L2 + 8MB L3**
+- **dGPU:** **Radeon RX 5600M** / **6GB GDDR6**
+- iGPU: **Radeon RX Vega 7** / 7 CUs (448 pipelines) / ～**1.6GHz**
+- Memory: **16GB** / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
-- Weight: 2.3 kg～
+- Weight: 2.5 kg～
 
 ### 136,931 円 | [New Inspiron 15 7000 プラチナ（大容量メモリー&1TB SSD・GTX1650Ti搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-7000-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd-gtx1650ti%E6%90%AD%E8%BC%89/spd/inspiron-15-7501-laptop/cai013pspm7s08on3ojp)
 
@@ -479,7 +464,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Memory: **16GB** / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: **17.3 inch** / **1920 x 1080** / **120Hz**
-- Weight: 2.6kg
+- Weight: 2.6 kg
 
 ### 139,220 円 | [Lenovo Legion Y7000 - ブラック](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-y-series/Lenovo-Legion-Y7000-2019/p/81NS000HJP)
 
