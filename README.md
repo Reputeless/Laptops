@@ -479,3 +479,17 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.3 kg～
 
+### 139,260 円 | [DAIV 5D-R5 (カスタマイズ)](https://www.mouse-jp.co.jp/creator/note/5d/)
+
+- Model: DAIV 5D-R5
+- Release: **2020-08**
+- OS: Windows 10 Home (64-bit) 
+- CPU: **Ryzen 5 3600 (デスクトップ用)** / **6C12T** / **3.6GHz～4.2GHz** / **3MB L2 + 32MB L3**
+- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
+- Memory: **16GB** / DDR4 2666MHz
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080**
+- Weight: 2.62 kg～
+
+(カスタマイズでスペックアップ可能)
+
