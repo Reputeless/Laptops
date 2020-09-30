@@ -15,7 +15,11 @@
 - 全国の子ども、学生のプログラミング環境の向上を目的としています。自由に活用してください
 - 表示価格はオンラインストアでの価格で、**税込み・送料込み・学割適用済み** です
 - 情報提供は GitHub の Issue や Pull-Request でお送りください
-- プロモーションのない公平なリストの維持更新と情報拡充のため [寄付](https://github.com/sponsors/Reputeless) によるサポートをお願いします
+- プロモーションのない公平なリストの維持更新と情報拡充のため [GitHub Sponsors](https://github.com/sponsors/Reputeless) によるサポートをお願いします
+
+### 💗 スポンサー
+
+- [TOMOAKI12345](https://github.com/TOMOAKI12345) 様
 
 ### スペック表の読み方
 
