@@ -218,7 +218,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: ASUS FA506IH (FA506IH-R5G1650)
 - Release: **2020-05**
 - OS: Windows 10 Home (64-bit) 
-- CPU: **Ryzen 7 4600HS** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
+- CPU: **Ryzen 5 4600HS** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
 - iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5GHz**
 - Memory: 8GB / **DDR4 3200MHz**
@@ -271,7 +271,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: ドスパラ GALLERIA GR1650TGF-T
 - Release: **2020-07**
 - OS: Windows 10 Home (64-bit) 
-- CPU: **Ryzen 7 4600H** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
+- CPU: **Ryzen 5 4600H** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
 - **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
 - iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5GHz**
 - Memory: **16GB** / **DDR4 3200MHz**
