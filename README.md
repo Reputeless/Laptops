@@ -324,7 +324,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 
 ### 123,178 円 | [GALLERIA GCL2060RGF5 (Amazon.co.jp モデル)](https://amzn.to/2H3GNN5)
 
-- Model: ドスパラ GALLERIA GCL2060RGF5
+- Model: [ドスパラ GALLERIA GCL2060RGF5](https://www.dospara.co.jp/5shopping/detail_prime.php?mc=9293&sn=0)
 - Release: **2020-05**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i5-10300H / 4C8T / **2.5GHz～4.5GHz** / 8MB L3
