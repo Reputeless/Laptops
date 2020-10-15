@@ -61,7 +61,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-07**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 5 4500U / 6C6T / **2.3GHz**～4.0GHz / **3MB L2 + 8MB L3**
-- iGPU: **Radeon RX Vega 6** / 6 CUs (384 pipelines) / ～**1.5 GHz**
+- iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5 GHz**
 - Memory: 8GB / **DDR4 3200MHz**
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
@@ -75,7 +75,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-07**
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 5 4500U / 6C6T / **2.3GHz**～4.0GHz / **3MB L2 + 8MB L3**
-- iGPU: **Radeon RX Vega 6** / 6 CUs (384 pipelines) / ～**1.5 GHz**
+- iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5 GHz**
 - Memory: 8GB / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080**
@@ -88,7 +88,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: IdeaPad S340(14) (第10世代インテル) (81VV000VJP)
 - Release: 2019-09
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / **8MB L3**
+- CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / 8MB L3
 - iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
 - Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
@@ -127,9 +127,9 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: IdeaPad L340 ゲーミングエディション (15) (第9世代インテル) (81LK01M8JP)
 - Release: **2020-06**
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-9300H / 4C8T / **2.4GHz**～4.1GHz / **8MB L3**
+- CPU: Core i5-9300H / 4C8T / **2.4GHz**～4.1GHz / 8MB L3
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.05 GHz
 - Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
@@ -165,20 +165,20 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: Legion 550Pi (第10世代インテル) (82AY001SJP)
 - Release: **2020-05**
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-10300H / 4C8T / **2.5GHz～4.5GHz** / **8MB L3**
+- CPU: Core i5-10300H / 4C8T / **2.5GHz～4.5GHz** / 8MB L3
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.05 GHz
 - Memory: 8GB / **DDR4 2933MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
-- Weight: **2.3 kg**～
+- Weight: 2.3 kg～
 
 ### 89,082 円 | [New Inspiron 13 5000 プレミアム（大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-13-5000-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-13-5301-laptop/cai1014hlstf08on3ojp)
 
 - Model: New Inspiron 13 5000 (5301)
 - Release: **2020-10**
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-1135G7 / 4C8T / **2.4GHz～4.2GHz** / **8MB L3**
+- CPU: Core i5-1135G7 / 4C8T / **2.4GHz～4.2GHz** / 8MB L3
 - iGPU: **Intel Iris Xe Graphics** / **80 units** / ～**1.3 GHz**
 - Memory: 8GB / **LPDDR4X 4267MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
@@ -190,7 +190,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: IdeaPad Slim 550i(14) (第10世代インテル) (81YH00HFJP)
 - Release: **2020-07**
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / **8MB L3**
+- CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / 8MB L3
 - iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
 - Memory: **16GB** / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
@@ -204,7 +204,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 7 3750H / 4C8T / **2.3GHz**～4.0GHz / 4MB L3
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
-- iGPU: **Radeon RX Vega 10** / 10 CUs (640 pipelines) / ～**1.4GHz**
+- iGPU: **Radeon RX Vega 10** / **10 CUs (640 pipelines)** / ～**1.4GHz**
 - Memory: **16GB** / DDR4 2400MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
@@ -230,7 +230,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: IdeaPad C340 (14) (第10世代インテル) (81TK001FJP)
 - Release: 2019-09
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i7-10510U / 4C8T / 1.8GHz～**4.9GHz** / **8MB L3**
+- CPU: Core i7-10510U / 4C8T / 1.8GHz～**4.9GHz** / 8MB L3
 - iGPU: Intel UHD Graphics / 24 units / 300 MHz～1.15 GHz
 - Memory: **16GB** / DDR4 2666MHz
 - Storage: **1TB M.2 PCIe NVMe SSD**
@@ -242,7 +242,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Model: IdeaPad C340 (15) (第10世代インテル) (81XJ0006JP)
 - Release: 2019-09
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / **8MB L3**
+- CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / 8MB L3
 - iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
 - Memory: **16GB** / DDR4 2666MHz
 - Storage: **1TB M.2 PCIe NVMe SSD**
@@ -259,7 +259,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.15 GHz
 - Memory: **16GB** / **DDR4 2933MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
@@ -273,7 +273,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Ryzen 7 4600H** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
 - **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
-- iGPU: **Radeon RX Vega 6** / 6 CUs (384 pipelines) / ～**1.5GHz**
+- iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5GHz**
 - Memory: **16GB** / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
@@ -286,7 +286,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Ryzen 7 3750H / 4C8T / **2.3GHz**～4.0GHz / 4MB L3
 - **dGPU:** **GeForce GTX 1660 Ti Max-Q** / **6GB GDDR6**
-- iGPU: **Radeon RX Vega 10** / 10 CUs (640 pipelines) / ～**1.4GHz**
+- iGPU: **Radeon RX Vega 10** / **10 CUs (640 pipelines)** / ～**1.4GHz**
 - Memory: **16GB** / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
@@ -316,7 +316,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
 - **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.15 GHz
 - Memory: **16GB** / DDR4 2666MHz
 - Storage: **1TB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
@@ -329,7 +329,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
 - **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.15 GHz
 - Memory: **16GB** / **DDR4 2933MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
@@ -370,7 +370,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-9750H** / **6C12T** / **2.6GHz～4.5GHz** / **12MB L3**
 - **dGPU:** **GeForce RTX 2060** / **6GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz～1.15 GHz**
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.15 GHz
 - Memory: **16GB** / DDR4 2666MHz
 - Storage1: 256GB **M.2 PCIe NVMe SSD**
 - Storage2: **1TB** 5400 rpm SATA HDD
@@ -384,7 +384,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
 - **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.15 GHz
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.15 GHz
 - Memory: **16GB** / **DDR4 2933MHz**
 - Storage: **1TB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
