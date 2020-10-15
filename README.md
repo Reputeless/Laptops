@@ -225,6 +225,19 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 14.0 inch / **1920 x 1080**
 - Weight: **1.429 kg**～
 
+### 91,991 円 | [ASUS TUF Gaming A15 FA506IH (Amazon.co.jp モデル)](https://amzn.to/2X3kEnA)
+
+- Model: ASUS FA506IH (FA506IH-R5G1650)
+- Release: **2020-05**
+- OS: Windows 10 Home (64-bit) 
+- CPU: **Ryzen 7 4600HS** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
+- **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
+- iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5GHz**
+- Memory: 8GB / **DDR4 3200MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080** / **144Hz**
+- Weight: 2.3kg
+
 ### 93,280 円 | [Lenovo IdeaPad C340 - プラチナ](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/c-3-series/Lenovo-IdeaPad-C340-14IWL/p/81TK001FJP)
 
 - Model: IdeaPad C340 (14) (第10世代インテル) (81TK001FJP)
@@ -264,7 +277,6 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 2.3 kg～
-
 
 ### 105,578 円 | [GALLERIA GR1650TGF-T ガレリア GR1650TGF-T メモリ16GB搭載モデル](https://www.dospara.co.jp/5shopping/detail_prime/13/30/9454/0/)
 
@@ -321,6 +333,19 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Storage: **1TB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.3 kg～
+
+### 123,178 円 | [GALLERIA GCL2060RGF5 (Amazon.co.jp モデル)](https://amzn.to/2H3GNN5)
+
+- Model: ドスパラ GALLERIA GCL2060RGF5
+- Release: **2020-05**
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i5-10300H / 4C8T / **2.5GHz～4.5GHz** / 8MB L3
+- **dGPU:** **GeForce RTX 2060** / **6GB GDDR6**
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.05 GHz
+- Memory: **16GB** / DDR4 2666MHz
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080** / **144Hz**
+- Weight: 2.1 kg
 
 ### 123,310 円 | [Dell G3 15 3500 (Amazon.co.jp モデル)](https://amzn.to/3k29S9K)
 
