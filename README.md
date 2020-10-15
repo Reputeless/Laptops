@@ -348,7 +348,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.34 kg～
 
-### 127,180 円 (10/15 まで) | [ROG Zephyrus G15 GA502IU](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5413492400/varProductID.5413492400/categoryID.4999073800)
+### 127,180 円 (10/15 まで) | [ROG Zephyrus G15 GA502IU (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5413492400/varProductID.5413492400/categoryID.4999073800)
 
 - Model: ROG Zephyrus G15 GA502IU (GA502IU-R7G1660TI)
 - Release: **2020-05**
