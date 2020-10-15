@@ -185,18 +185,6 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 13.3 inch / **1920 x 1080**
 - Weight: **1.053 kg**～
 
-### 89,782 円 | [Lenovo IdeaPad Slim 550i - プラチナグレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/slim-5-series/ideapad-5i-14iil05/p/81YH00HFJP)
-
-- Model: IdeaPad Slim 550i(14) (第10世代インテル) (81YH00HFJP)
-- Release: **2020-07**
-- OS: Windows 10 Home (64-bit) 
-- CPU: Core i7-1065G7 / 4C8T / 1.3GHz～3.9GHz / 8MB L3
-- iGPU: Intel Iris Plus Graphics **Gen11** / **64 units** / 300MHz～1.10GHz
-- Memory: **16GB** / **DDR4 3200MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 14.0 inch / **1920 x 1080**
-- Weight: **1.45kg～**
-
 ### 89,800 円 | [ASUS TUF Gaming FX505DT-R7G1650META (Amazon.co.jp モデル)](https://amzn.to/3bDOe8j)
 
 - Model: ASUS FX505DT (FX505DT-R7G1650META)
