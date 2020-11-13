@@ -358,7 +358,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Release: **2020-10**
 - OS: Windows 10 Home (64-bit) 
 - CPU: **Core i7-10870H** / **8C16T** / **2.2GHz～5.0GHz** / **16MB L3**
-- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
+- **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～**1.2GHz**
 - Memory: **16GB** / **DDR4 2933MHz**
 - Storage 1: **512GB M.2 PCIe NVMe SSD**
