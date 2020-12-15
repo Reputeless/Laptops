@@ -1,8 +1,11 @@
 # 学生ゲーム開発者向け 低予算・高性能ノート PC
 
 *2020-12-15 版*  
-以前の (2019 年) → [2019-09-20](archive/2019-09-20.md) / [2019-10-01](archive/2019-10-01.md) / [2019-11-07](archive/2019-11-07.md) / [2019-12-26](archive/2019-12-26.md)  
-以前の (2020 年) → [2020-02-04](archive/2020-02-04.md) / [2020-04-26](archive/2020-04-26.md) / [2020-05-27](archive/2020-05-27.md) / [2020-07-07](archive/2020-07-07.md) / [2020-08-07](archive/2020-08-07.md) / [2020-09-11](archive/2020-09-11.md) / [2020-10-15](archive/2020-10-15.md) / [2020-11-13](archive/2020-11-13.md)
+
+- 過去 (2019 年) → [2019-09-20](archive/2019-09-20.md) / [2019-10-01](archive/2019-10-01.md) / [2019-11-07](archive/2019-11-07.md) / [2019-12-26](archive/2019-12-26.md)  
+- 過去 (2020 年) → [2020-02-04](archive/2020-02-04.md) / [2020-04-26](archive/2020-04-26.md) / [2020-05-27](archive/2020-05-27.md) / [2020-07-07](archive/2020-07-07.md) / [2020-08-07](archive/2020-08-07.md) / [2020-09-11](archive/2020-09-11.md) / [2020-10-15](archive/2020-10-15.md) / [2020-11-13](archive/2020-11-13.md)
+
+### このリストについて
 
 - ゲーム開発やプログラミングをしたいけど、PC を買う予算が限られている小学生～大学生のための、価格帯別コスパ最高 PC リストです
 - 全国の子ども、学生のプログラミング環境の向上を目的としています。自由に活用してください
@@ -59,6 +62,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 1.83 kg～
 
+
 ## 予算 6 万円以下
 
 ### 57,006 円 | [New Inspiron 15 3000 (3505) プラチナ（大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-3505-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-15-3505-laptop/cai106rhlbaa08on3ojp)
@@ -88,6 +92,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 14.0 inch / **1920 x 1080**
 - Weight: 1.5 kg～
 
+
 ## 予算 8 万円以下
 
 ### 73,935 円 | [Inspiron 15 5000 (5505) プラチナ（大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-5000-5505-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-15-5505-laptop/cai104ahlm5a08on3ojp)
@@ -102,6 +107,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 1.714 kg～
 
+
 ### 74,800 円 | [ASUS TUF Gaming FX505DT (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5414113100/varProductID.5414113100/categoryID.5021093700)
 
 - Model: ASUS FX505DT (FX505DT-R5G1650S)
@@ -114,6 +120,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
 - Weight: 2.25 kg
+
 
 ## 予算 9 万円以下
 
@@ -195,6 +202,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Storage: **1TB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1080** / **タッチディスプレイ**
 - Weight: 1.65 kg～
+
 
 ## 予算 11 万円以下
 
