@@ -218,7 +218,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 1.714 kg～
 
-### 102,278 円 | [GALLERIA GR1650TGF-T ガレリア GR1650TGF-T メモリ16GB搭載モデル](https://www.dospara.co.jp/5shopping/detail_prime.php?tg=13&tc=30&ft=&mc=9454&sn=2954&st=1&vr=10)
+### 102,278 円 | [GALLERIA GR1650TGF-T ガレリア GR1650TGF-T メモリ16GB搭載モデル](https://www.dospara.co.jp/5shopping/detail_prime.php?tg=13&tc=30&ft=&mc=9454&sn=2961&st=1&vr=10)
 
 - Model: ドスパラ GALLERIA GR1650TGF-T
 - Release: **2020-07**
