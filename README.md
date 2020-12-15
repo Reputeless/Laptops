@@ -143,7 +143,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - OS: Windows 10 Home (64-bit) 
 - CPU: Core i5-9300H / 4C8T / **2.4GHz**～4.1GHz / 8MB L3
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR5**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.05 GHz
 - Memory: 8GB / DDR4 2666MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
