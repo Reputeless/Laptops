@@ -273,20 +273,6 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.3kg
 
-### 118,000 円 | [ASUS ROG Strix G15 G512LI (Amazon.co.jp モデル)](https://amzn.to/3qUHn29)
-
-- Model: ASUS ROG Strix G15 G512LI (G512LI-I7G1650T)
-- Release: **2020-07**
-- OS: Windows 10 Home (64-bit) 
-- OS: Windows 10 Home (64-bit) 
-- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
-- **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.15 GHz
-- Memory: **16GB** / **DDR4 2933MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080** / **144Hz**
-- Weight: 2.32 kg～
-
 ### 119,800 円 | [ASUS TUF Gaming F15 FX506LI (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5453221600/varProductID.5453221600/categoryID.4961783800)
 
 - Model: ASUS TUF Gaming F15 FX506LI (FX506LI-I78G1650TIS)
