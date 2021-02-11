@@ -11,7 +11,7 @@
 
 - ゲーム開発やプログラミングをしたいけど、PC を買う予算が限られている小学生～大学生のための、価格帯別コスパ最高 PC リストです
 - 全国の子ども、学生のプログラミング環境の向上を目的としています。自由に活用してください
-- 表示価格はオンラインストアでの価格で、**税込み・送料込み・学割適用済み** です
+- 表示価格は調査時点でのオンラインストアでの価格で、**税込み・送料込み・学割適用済み** です
 - 情報提供は GitHub の Issue や Pull-Request でお送りください
 - プロモーションのない公平なリストの維持更新と情報拡充のため [GitHub Sponsors](https://github.com/sponsors/Reputeless) によるサポートをお願いします
 
@@ -282,7 +282,7 @@ Lenovo で PC を購入する場合、[学割ストア](https://www.lenovo.com/j
 - Display: 15.6 inch / **1920 x 1080** / **120Hz**
 - Weight: 1.9 kg
 
-### 102,801 円 (2/5 ~ 2/19 AM10時セール) | [ASUS ROG Zephyrus G15 GA502IU (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5416772900/varProductID.5416772900/categoryID.4961783800)
+### 102,801 円 (2/5 ~ 2/19 AM10時セール) | [ASUS ROG Zephyrus G15 GA502IU (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5413492400/varProductID.5413492400/categoryID.4961783800)
 
 - Model: ASUS ROG Zephyrus G15 GA502IU (GA502IU-R7G1660TI)
 - Release: **2020-05**
