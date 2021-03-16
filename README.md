@@ -134,6 +134,20 @@
 - Display: 14.0 inch / **1920 x 1080**
 - Weight: **1.45 kg**～
 
+### 85,778 円 | [GALLERIA GCL1650TGF 10200H搭載](https://www.dospara.co.jp/5shopping/detail_prime.php?mc=9733&sn=0)
+
+- Model: ドスパラ GALLERIA GCL1650TGF
+- Release: **2020-12**
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i5-10200H / 4C8T / **2.4GHz**～4.1GHz / 8MB L3
+- **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.05 GHz
+- Memory: **16GB** / DDR4 2666MHz
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080**
+- Weight: 2.1 kg
+- **(カスタマイズでスペックアップ可能)**
+
 ### 87,450 円 | [Lenovo IdeaPad S540 - ミネラルグレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/slim-5-series/Lenovo-IdeaPad-S540-15IWL/p/81NG000LJP)
 
 - Model: IdeaPad S540 (15) (第10世代インテル) (81NG000LJP)
@@ -157,6 +171,7 @@
 - Storage: **1TB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **タッチディスプレイ**
 - Weight: 1.71 kg～
+
 
 ## 予算 10 万円以下
 
@@ -184,6 +199,20 @@
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / **1920 x 1080** / **144Hz**
 - Weight: 2.3 kg
+
+### 95,348 円 | [GALLERIA GCL1650TGF 10200H搭載](https://www.dospara.co.jp/5shopping/detail_prime.php?mc=9733&sn=0)
+
+- Model: ドスパラ GALLERIA GCL1650TGF
+- Release: **2020-12**
+- OS: Windows 10 Home (64-bit) 
+- CPU: Core i5-10200H / 4C8T / **2.4GHz**～4.1GHz / 8MB L3
+- **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.05 GHz
+- Memory: **16GB** / DDR4 2666MHz
+- Storage: **1TB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080**
+- Weight: 2.1 kg
+- **(カスタマイズでスペックアップ可能)**
 
 ### 96,425 円 | [Dell G5 15 SE (5505) シルバー (Amazon.co.jp)](https://amzn.to/30KtZlt)
 
