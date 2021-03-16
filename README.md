@@ -212,7 +212,7 @@
 
 ## 予算 11 万円以下
 
-### 104,800 円 | [ASUS TUF Gaming F15 FX506LH(Amazon.co.jp)](https://amzn.to/3vCmECP)
+### 104,800 円 | [ASUS TUF Gaming F15 FX506LH (Amazon.co.jp)](https://amzn.to/3vCmECP)
 
 - Model: ASUS TUF Gaming F15 FX506LH (FX506LH-I7G1650)
 - Release: **2020-06**
@@ -297,7 +297,7 @@
 - Weight: 2.34 kg～
 
 
-### 125,250 円 | [Dell G5 15 SE (5505) プラチナ（144Hz・大容量メモリー・RX5600M搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g5-15-se-5505-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-144hz-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-rx5600m%E6%90%AD%E8%BC%89/spd/g-series-15-5505-laptop/cag1200spsaa16on3ojp)
+### 125,250 円 | [Dell G5 15 SE (5505) プラチナ（144Hz・大容量メモリー&SSD・RX5600M搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g5-15-se-5505-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-144hz-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-rx5600m%E6%90%AD%E8%BC%89/spd/g-series-15-5505-laptop/cag2200spsaa16on3ojp)
 
 - Model: Dell G5 15 SE (5505)
 - Release: **2020-05**
