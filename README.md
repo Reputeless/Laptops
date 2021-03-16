@@ -171,7 +171,7 @@
 - Display: 14.0 inch / **1920 x 1080** / **タッチディスプレイ**
 - Weight: 1.65 kg～
 
-## 93,390 円 | [ASUS TUF Gaming F15 FX506LH](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5416772900/varProductID.5416772900/categoryID.4961783800) / [(Amazon.co.jp)](https://amzn.to/391nOhx)
+### 93,390 円 | [ASUS TUF Gaming F15 FX506LH](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5416772900/varProductID.5416772900/categoryID.4961783800) / [(Amazon.co.jp)](https://amzn.to/391nOhx)
 
 - Model: ASUS TUF Gaming F15 FX506LH (FX506LH-I5G1650)
 - Release: **2020-06**
