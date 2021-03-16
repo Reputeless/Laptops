@@ -93,7 +93,7 @@
 
 ## 予算 8 万円以下
 
-@ ### 72,800 円 | [ASUS TUF Gaming FX505DT (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5414113100/varProductID.5414113100/categoryID.5021093700)
+### 72,800 円 | [ASUS TUF Gaming FX505DT (ASUS Store 限定モデル)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5414113100/varProductID.5414113100/categoryID.5021093700)
 
 - Model: ASUS FX505DT (FX505DT-R5G1650S)
 - Release: **2020-08**
@@ -197,7 +197,7 @@
 - Display: 15.6 inch / **1920 x 1080**
 - Weight: 2.5 kg～
 
-@ ### 96,936 円 | [New Inspiron 15 5000 (5502) プラチナ（大容量メモリー＆SSD・WiｰFi6搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-5000-5502-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-wi%EF%BD%B0fi6%E6%90%AD%E8%BC%89/spd/inspiron-15-5502-laptop/cai5011hl5ts16on4ojp)
+### 96,936 円 | [New Inspiron 15 5000 (5502) プラチナ（大容量メモリー＆SSD・WiｰFi6搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-5000-5502-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-ssd-wi%EF%BD%B0fi6%E6%90%AD%E8%BC%89/spd/inspiron-15-5502-laptop/cai5011hl5ts16on4ojp)
 
 - Model: New Inspiron 15 5000 (5502)
 - Release: **2020-10**

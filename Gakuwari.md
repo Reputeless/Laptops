@@ -28,4 +28,4 @@ HP で PC を購入する場合、[学割ストア](https://jp.ext.hp.com/campai
   - 大学受験予備校に在籍する学生
 
 
-[(←トップに戻る)](README.md)
+[(←トップに戻る)](https://github.com/Reputeless/Laptops)
