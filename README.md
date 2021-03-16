@@ -212,7 +212,7 @@
 
 ## 予算 11 万円以下
 
-## 104,800 円 | [ASUS TUF Gaming F15 FX506LH(Amazon.co.jp)](https://amzn.to/3vCmECP)
+### 104,800 円 | [ASUS TUF Gaming F15 FX506LH(Amazon.co.jp)](https://amzn.to/3vCmECP)
 
 - Model: ASUS TUF Gaming F15 FX506LH (FX506LH-I7G1650)
 - Release: **2020-06**
