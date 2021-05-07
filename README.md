@@ -127,7 +127,7 @@
 - iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**1.9GHz**
 - Memory: **16GB** / **DDR4 3200MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 14.0 inch / **1920 x 1080**
+- Display: 14.0 inch / **1920 x 1080** / **タッチディスプレイ**
 - Weight: **1.5 kg**
 
 ### 82,800 円 | [ASUS TUF Gaming F15 FX506LH](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5416772900/varProductID.5416772900/categoryID.4961783800) / [(Amazon.co.jp)](https://amzn.to/391nOhx)
