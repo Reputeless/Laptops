@@ -386,7 +386,7 @@
 - Display: 15.6 inch / 1920 x 1080 / **144Hz**
 - 2.1 kg
 
-$### 137,265 円 | [New Dell G15 Ryzen Edition(5515) プラチナ（RTX3060搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-dell-g15-ryzen-edition5515-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-rtx3060%E6%90%AD%E8%BC%89/spd/g-series-15-5515-laptop/cag2400spsra16on3ojps)
+### 137,265 円 | [New Dell G15 Ryzen Edition(5515) プラチナ（RTX3060搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-dell-g15-ryzen-edition5515-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-rtx3060%E6%90%AD%E8%BC%89/spd/g-series-15-5515-laptop/cag2400spsra16on3ojps)
 
 - Model: New Dell G15 Ryzen Edition (5515)
 - Release: **2021-05**
@@ -399,7 +399,7 @@ $### 137,265 円 | [New Dell G15 Ryzen Edition(5515) プラチナ（RTX3060搭�
 - Display: 15.6 inch / 1920 x 1080 / **120Hz**
 - 2.449 kg～
 
-$### 138,735 円 | [Dell G15 Ryzen Edition (5515) 【即納】 プラチナ（165Hz・RTX3060搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g15-ryzen-edition-5515-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-165hz-rtx3060%E6%90%AD%E8%BC%89/spd/g-series-15-5515-laptop/smg2500spsra16on3ojp)
+### 138,735 円 | [Dell G15 Ryzen Edition (5515) 【即納】 プラチナ（165Hz・RTX3060搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dell-g15-ryzen-edition-5515-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-165hz-rtx3060%E6%90%AD%E8%BC%89/spd/g-series-15-5515-laptop/smg2500spsra16on3ojp)
 
 - Model: New Dell G15 Ryzen Edition (5515)
 - Release: **2021-05**
