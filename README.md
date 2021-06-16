@@ -88,18 +88,6 @@
 - Display: 15.6 inch / 1920 x 1080
 - Weight: 1.643 kg
 
-### 67,698 円 | [New Inspiron 15 3000 (3505) プラチナ（大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-3505-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-15-3505-laptop/cai106rhlbaa08on3ojp)
-
-- Model: New Inspiron 15 3000 (3505)
-- Release: **2020-09**
-- OS: Windows 10 Home (64-bit) 
-- CPU: Ryzen 7 3700U / 4C8T / **2.3GHz**～4.0GHz / 2MB L2 + 4MB L3
-- iGPU: **Radeon RX Vega 10** / 10 CUs (640 pipelines) / ～1.3GHz
-- Memory: 8GB / DDR4 2400MHz
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080
-- Weight: 1.83 kg～
-
 ### 67,766 円 | [Inspiron 15 5000 (5505) プラチナ（大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-5000-5505-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-15-5505-laptop/cai104ahlm5a08on3ojp)
 
 - Model: Inspiron 15 (5505) 
