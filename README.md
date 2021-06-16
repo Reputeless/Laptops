@@ -301,7 +301,7 @@
 - Display: **17.3 inch** / 1920 x 1080 / **120Hz**
 - Weight: 2.6kg
 
-$### 117,436 円 | [Lenovo IdeaPad Slim 560 Pro ゲーミングエディション](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/slim-5-series/IdeaPad-5-Pro-16ACH6/p/82L50028JP)
+### 117,436 円 | [Lenovo IdeaPad Slim 560 Pro ゲーミングエディション](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/ideapad/slim-5-series/IdeaPad-5-Pro-16ACH6/p/82L50028JP)
 
 - Model: IdeaPad Slim 560 Pro(16) (82L50028JP)
 - Release: **2021-05**
