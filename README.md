@@ -20,6 +20,7 @@
 ### 💗 スポンサー
 
 - [TOMOAKI12345](https://github.com/TOMOAKI12345) 様
+- [デジタルライフ](https://lifedigitalwiki.org/ja/) 様
 
 ### スペック表の読み方
 
