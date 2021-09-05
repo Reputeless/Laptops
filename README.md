@@ -268,7 +268,7 @@
 - Model: MSI GF63-10UD-628JP
 - Release: **2021-07**
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-10500H / **6C12T** / **2.5GHz～4.5GHz** / **12MB L3**
+- CPU: **Core i5-10500H** / **6C12T** / **2.5GHz～4.5GHz** / **12MB L3**
 - **dGPU:** **GeForce RTX 3050 Ti** / **4GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.1GHz
 - Memory: **16GB** / DDR4
@@ -310,7 +310,7 @@
 - Model: MSI GF65-10UE-256JP
 - Release: **2021-03**
 - OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-10500H / **6C12T** / **2.5GHz～4.5GHz** / **12MB L3**
+- CPU: **Core i5-10500H** / **6C12T** / **2.5GHz～4.5GHz** / **12MB L3**
 - **dGPU:** **GeForce RTX 3060** / **6GB GDDR6**
 - iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.1GHz
 - Memory: 8GB / DDR4
