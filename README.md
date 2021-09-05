@@ -263,6 +263,19 @@
 - Display: 15.6 inch / 1920 x 1080 / **120Hz**
 - Weight: 2.57 kg～
 
+### 111,630 円 | [Dell G3 15 (3500) (Amazon.co.jp)](https://amzn.to/2WOGoXj)
+
+- Model: Dell G3 15 (3500)
+- Release: **2020-05**
+- OS: Windows 10 Home (64-bit) 
+- CPU: **Core i7-10750H** / **6C12T** / **2.6GHz～5.0GHz** / **12MB L3**
+- **dGPU:** **GeForce GTX 1660 Ti** / **6GB GDDR6**
+- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.15 GHz
+- Memory: **16GB** / **DDR4 2933MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / **1920 x 1080** / **144Hz**
+- Weight: 2.34 kg～
+
 ### 119,988 円 | [MSI GF63 (Amazon.co.jp)](https://amzn.to/3BHmiwK)
 
 - Model: MSI GF63-10UD-628JP
