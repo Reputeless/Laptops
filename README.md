@@ -184,6 +184,18 @@
 
 ## 予算 11 万円以下
 
+### 103,280 円 | [GALLERIA RL5R-G50T](https://www.dospara.co.jp/5shopping/detail_prime.php?tg=13&tc=143&ft=&mc=10079&sn=3018&st=1&vr=10)
+
+- Model: GALLERIA RL5R-G50T
+- OS: Windows 10 Home (64-bit) 
+- CPU: **Ryzen 5 4600H** / **6C12T** / **3.0GHz**～4.0GHz / **3MB L2 + 8MB L3**
+- **dGPU:** **GeForce GTX 1650 Ti** / **4GB GDDR6**
+- iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.5GHz**
+- Memory: **16GB** / **DDR4 3200MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / 1920 x 1080 / **120Hz**
+- Weight: 2.1kg
+
 ### 107,850 円 | [GALLERIA GCL1650TGF](https://www.dospara.co.jp/5shopping/detail_prime.php?tg=13&mc=9294&sn=3017)
 
 - Model: GALLERIA GCL1650TGF
@@ -224,19 +236,7 @@
 - Display: 15.6 inch / 1920 x 1080 / **120Hz**
 - Weight: 2.449 kg～
 
-### 119,800 円 | [MSI GF63 (Amazon.co.jp)](https://amzn.to/3kHNvJu)
-
-- Model: MSI GF63-10UD-628JP
-- OS: Windows 10 Home (64-bit) 
-- CPU: **Core i5-10500H** / **6C12T** / **2.5GHz～4.5GHz** / **12MB L3**
-- **dGPU:** **GeForce RTX 3050 Ti** / **4GB GDDR6**
-- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.1GHz
-- Memory: **16GB** / DDR4
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080 / **120Hz**
-- Weight: 1.86 kg
-
-### 119,988 円 | [ASUS TUF Dash F15 FX516PE](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5515612000/varProductID.5515612000/categoryID.4961783800)
+### 119,800 円 | [ASUS TUF Dash F15 FX516PE](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5515612000/varProductID.5515612000/categoryID.4961783800)
 
 - Model: ASUS TUF Dash F15 FX516PE (FX516PE-I7R3050TECG)
 - OS: Windows 10 Home (64-bit) 
