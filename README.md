@@ -20,7 +20,6 @@
 ### 💗 スポンサー
 
 - [TOMOAKI12345](https://github.com/TOMOAKI12345) 様
-- [デジタルライフ](https://lifedigitalwiki.org/ja/) 様
 - [CubeSoft, Inc.](https://www.cube-soft.jp/) 様
 
 
