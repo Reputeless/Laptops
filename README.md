@@ -159,7 +159,7 @@
 - **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
 - Memory: 8GB / **DDR4 2933MHz**
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1080** / **144Hz**
+- Display: 15.6 inch / 1920 x 1080 / **144Hz**
 - Weight: 2.3 kg
 
 
