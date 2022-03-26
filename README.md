@@ -238,19 +238,6 @@
 
 ## 予算 13 万円以下
 
-### 121,380 円 | [Dell ゲーミングノートパソコン G15 5511 スペクターグリーン (Amazon.co.jp)](https://amzn.to/3uOyPgf)
-
-- Model: Dell G15 5511
-- OS: Windows 11 Home
-- CPU: **Core i7-11800H** / **8C16T** / **2.3GHz～4.6GHz** / **10MB L2 + 24MB L3**
-- iGPU: Intel UHD Graphics Xe / 32 units / 350 MHz～1.45 GHz
-- **dGPU:** **GeForce RTX 3050** / **4GB GDDR6**
-- Memory: **16GB** / **DDR4 3200MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080 / **120Hz**
-- Weight: 2.44 kg～
-
-
 ### 121,380 円 | [Dell ゲーミングノートパソコン G15 Ryzen Edition 5515 ファントムグレー (Amazon.co.jp)](https://amzn.to/35dGonR)
 
 - Model: Dell G15 5515 Ryzen Edition
