@@ -133,7 +133,7 @@
 - Display: 14.0 inch / **1920 x 1200**
 - Weight: 1.54 kg～
 
-### 89,980 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/p/88GMY501438)
+### 89,980 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/edu/ja/p/laptops/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/82AY001SJP?groupId=jpeducation)
 
 - Model: Lenovo Legion 550Pi (82AY001SJP)
 - OS: Windows 10 Home (64-bit) 
@@ -151,7 +151,7 @@
 
 ### 108,986 円 | [Lenovo IdeaPad Slim 570i Pro - クラウドグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-5-series/IdeaPad-5i-Pro-Gen-7-(16-inch-Intel)/82SK0075JP?groupId=jpeducation)
 
-- Model: Lenovo Legion 550Pi (82SK0075JP)
+- Model: IdeaPad 5i Pro Gen 7 (16″ Intel) (82SK0075JP)
 - OS: Windows 11 Home
 - CPU: Core i5-12500H / **4C8T(P) + 8C8T(E)** / **2.5GHz～4.5GHz(P)**, 1.8GHz～3.3GHz(E)  / **10MB L2 + 18MB L3**
 - iGPU: Intel Iris Xe Graphics G7 / 80 units / ～**1.3 GHz**
