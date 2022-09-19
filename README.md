@@ -173,7 +173,7 @@
 - Display: 14.0 inch / **1920 x 1200**
 - Weight: 1.54 kg～
 
-### 114,180 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/ja/jpcepp60/notebooks/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/p/82AY001TJP)
+### 114,180 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/edu/ja/p/laptops/legion-laptops/legion-5-series/lenovo-legion-5pi-15imh05/82ay001tjp?groupId=jpeducation)
 
 - Model: Legion 550Pi (第10世代インテル) (82AY001TJP)
 - OS: Windows 10 Home (64-bit) 
