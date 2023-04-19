@@ -1,6 +1,6 @@
 # 学生向け 低予算・高性能ノート PC
 
-*2022-09-19 版*  
+*2023-04-19 版*  
 
 ゲーム開発やプログラミングをしたいけれど、PC を買う予算が限られている小学生～大学生のための、価格帯別コスパ最高 PC リストです。ハードウェアのスペックを最重視しています。
 
@@ -26,244 +26,194 @@
 - Weight: 重量（そのモデルの最小構成での重量なので、これより大きい場合がある）
 
 <!--
-- CPU: 7-H 以上 / 6C12T 以上 / 2.1GHz～4.1GHz / 合計 12 MB 以上
-- iGPU: Radeon RX Vega 7, Xe Graphics / 96 units 以上 / ～1.2GHz 以上
+- CPU: 7-H 以上 / 6C12T 以上 / 2.4GHz～4.4GHz / 合計 12 MB 以上
+- iGPU: ?? / 512 pipelines, 96 units 以上 / ～1.4GHz 以上
 - Memory: 16GB / DDR5
 - Storage: 512GB M.2 PCIe NVMe SSD
-- Display: * / 1920 x 1080より大きい
+- Display: 16.0 inch 以上 / 1920 x 1080より大きい
 - Weight: 1.5 kg 未満
 -->
 
 ## 予算 6 万円以下
 
-### 54,890 円 | [Lenovo IdeaPad Slim 170 - クラウドグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-1-series/ideapad-1-gen-7-(15-inch-amd)/82r4002ajp?groupId=jpeducation)
+### 57,860 円 | [Lenovo IdeaPad Slim 170 - クラウドグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-1-series/IdeaPad-1-Gen-7-(15-inch-AMD)/82VG0095JP?groupId=jpeducation)
 
-- Model: IdeaPad Slim 170 15.6型 (AMD) (82R4002AJP)
+- Model: IdeaPad Slim 170 15.6型 (AMD) (82VG0095JP)
 - OS: Windows 11 Home
-- CPU: Ryzen 5 5500U / **6C12T** / **2.1GHz**～4.0GHz / **3MB L2 + 8MB L3**
-- iGPU: **Radeon RX Vega 7** / 7 CUs (448 pipelines) / ～**1.8GHz**
-- Memory: 8GB / **DDR4 3200MHz**
+- CPU: Ryzen 5 7520U / 4C8T / **2.8GHz**～4.3GHz / 2MB L2 + 4MB L3
+- iGPU: Radeon 610M / 2 CUs (128 pipelines) / ～**1.9GHz**
+- Memory: 8GB / **LPDDR5 5500MHz**
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / 1920 x 1080
-- Weight: 1.6 kg
+- Weight: 1.58 kg
 
 
 ## 予算 7 万円以下
 
-### 67,650 円 | [ThinkBook 14 Gen 3 - ミネラルグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/thinkbook/thinkbook-series/thinkbook-14-gen-3-(14-inch-amd)/21a200p2jp?groupId=jpeducation)
+### 66,620 円 | [Vostro 3525](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/vostro-3525-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/vostro-15-3525-laptop/vn3525hfy91001osnojp)
 
-- Model: ThinkBook 14 Gen 3 (AMD) (21A200P2JP)
+- Model: Vostro 3525
 - OS: Windows 11 Home
-- CPU: Ryzen 5 5600U / **6C12T** / **2.3GHz～4.2GHz** / **3MB L2 + 16MB L3**
-- iGPU: **Radeon RX Vega 7** / 7 CUs (448 pipelines) / ～**1.8GHz**
+- CPU: Ryzen 5 5500U / **6C12T** / 2.1GHz～4.0GHz / **3MB L2 + 8MB L3**
+- iGPU: Radeon RX Vega 7 / 7 CUs (448 pipelines) / ～**1.8GHz**
+- Memory: 8GB / DDR4 3200MHz
+- Storage: 256GB **M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / 1920 x 1080
+- Weight: 1.83 kg～
+
+### 69,850 円 | [Lenovo IdeaPad Slim 370i - アークティックグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-3-series/IdeaPad-3i-Gen-7-(14-inch-Intel)/82RJ001XJP?groupId=jpeducation)
+
+- Model: IdeaPad Slim 3i Gen 7 (14″ Intel) (82RJ001XJP)
+- OS: Windows 11 Home
+- CPU: Core i5-1235U  / **2C4T(P) + 8C8T(E)** / 1.3GHz～**4.4GHz**(P), 0.9GHz～3.3GHz(E)  / **9.5MB L2 + 12MB L3**
+- iGPU: Intel Iris Xe Graphics G7 / 80 units / ～1.2 GHz
 - Memory: 8GB / DDR4 3200MHz
 - Storage: 256GB **M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / 1920 x 1080
-- Weight: **1.4 kg**
-
-### 68,237 円 | [Lenovo IdeaPad Slim 570 - ストームグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-5-series/ideapad-5-gen-7-(14-inch-amd)/82se002rjp?groupId=jpeducation)
-
-- Model: IdeaPad Slim 5 Gen 7 (14″ AMD) (82SE002RJP)
-- OS: Windows 11 Home
-- CPU: Ryzen 5 5625U / **6C12T** / **2.3GHz～4.3GHz** / **3MB L2 + 16MB L3**
-- iGPU: **Radeon RX Vega 7** / 7 CUs (448 pipelines) / ～**1.8GHz**
-- Memory: 8GB / DDR4 3200MHz
-- Storage: 256GB **M.2 PCIe NVMe SSD**
-- Display: 14.0 inch / 1920 x 1080
-- Weight: **1.38 kg**
+- Weight: **1.43 kg**
 
 
 ## 予算 8 万円以下
 
-### 71,614 円 | [New Inspiron 15 3000 AMD 【即納】プレミアム](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-amd-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0/spd/inspiron-15-3525-laptop/smi229bspwaa08on3ojp)
+### 74,460 円 | [Inspiron 15](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-15-3525-laptop/smi229bspwaa08on3ojp)
 
 - Model: Inspiron 15 3525
 - OS: Windows 11 Home
-- CPU: Ryzen 5 5625U / **6C12T** / **2.3GHz～4.3GHz** / **3MB L2 + 16MB L3**
-- iGPU: **Radeon RX Vega 7** / 7 CUs (448 pipelines) / ～**1.8GHz**
+- CPU: Ryzen 5 5625U / **6C12T** / 2.3GHz～4.3GHz / **3MB L2 + 16MB L3**
+- iGPU: Radeon RX Vega 7 / 7 CUs (448 pipelines) / ～**1.8GHz**
 - Memory: 8GB / DDR4 3200MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / 1920 x 1080 / **120Hz**
 - Weight: 1.68 kg～
-
-### 77,246 円 | [New Inspiron 14 AMD 【即納】プレミアム (大容量メモリー搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-amd-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E6%90%AD%E8%BC%89/spd/inspiron-14-5425-laptop/smi1054spoaa16on3ojp)
-
-- Model: Inspiron 14 5425
-- OS: Windows 11 Home
-- CPU: Ryzen 5 5625U / **6C12T** / **2.3GHz～4.3GHz** / **3MB L2 + 16MB L3**
-- iGPU: **Radeon RX Vega 7** / 7 CUs (448 pipelines) / ～**1.8GHz**
-- Memory: **16GB** / DDR4 3200MHz
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 14.0 inch / **1920 x 1200**
-- Weight: 1.54 kg～
 
 
 ## 予算 9 万円以下
 
-### 83,045 円 | [New Inspiron 15 3000 AMD 【即納】プラチナ](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-15-3000-amd-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A/spd/inspiron-15-3525-laptop/smi106bspwaa08on3ojp)
+### 83,114 円 | [Lenovo IdeaPad Slim 5 Gen 8 - クラウドグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-5-series/IdeaPad-Slim-5-Gen-8-(14-inch-AMD)/82XE0047JP?groupId=jpeducation)
 
-- Model: Inspiron 15 3525 (AMD) 
+- Model: IdeaPad Slim 5 Gen 8 (14″ AMD) (82XE0047JP)
 - OS: Windows 11 Home
-- CPU: Ryzen 7 5825U / **8C16T** / 2.0GHz～**4.5GHz** / **4MB L2 + 16MB L3**
-- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**2.0GHz**
-- Memory: 8GB / DDR4 3200MHz
+- CPU: Ryzen 5 7530U / **6C12T** / 2.0GHz～**4.5GHz** / **3MB L2 + 16MB L3**
+- iGPU: Radeon RX Vega 7 / 7 CUs (448 pipelines) / ～**2.0GHz**
+- Memory: **16GB** / DDR4 3200MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / **1920 x 1200** / **120Hz**
-- Weight: 1.68 kg～
+- Display: 14.0 inch / **1920 x 1200**
+- Weight: **1.46 kg**
 
-### 84,480 円 | [Lenovo IdeaPad Slim 560 Pro - クラウドグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-5-series/ideapad-5-pro-16ach6/82l500fmjp?groupId=jpeducation)
 
-- Model: IdeaPad Slim 560 Pro(16) (82L500FMJP)
-- OS: Windows 11 Home
-- CPU: Ryzen 5 5600H / **6C12T** / **3.3GHz～4.2GHz** / **3MB L2 + 16MB L3**
-- iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.8GHz**
-- Memory: 8GB / DDR4 3200MHz
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: **16.0 inch** / **2560 x 1600**
-- Weight: 1.89 kg
+## 予算 10 万円以下
 
-### 88,336 円 | [New Inspiron 14 AMD 【即納】プラチナ（大容量メモリー搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-amd-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E6%90%AD%E8%BC%89/spd/inspiron-14-5425-laptop/smi2014spoaa16on3ojp)
+### 90,221 円 | [Inspiron 14](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5425-laptop/smi2014hloaa16on3ojp)
 
 - Model: Inspiron 14 5425
 - OS: Windows 11 Home
 - CPU: Ryzen 7 5825U / **8C16T** / 2.0GHz～**4.5GHz** / **4MB L2 + 16MB L3**
-- iGPU: **Radeon RX Vega 8** / 8 CUs (512 pipelines) / ～**2.0GHz**
+- iGPU: Radeon RX Vega 8 / **8 CUs (512 pipelines)** / ～**2.0GHz**
 - Memory: **16GB** / DDR4 3200MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 14.0 inch / **1920 x 1200**
 - Weight: 1.54 kg～
 
-### 89,980 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/edu/ja/p/laptops/legion-laptops/legion-5-series/Lenovo-Legion-5Pi-15IMH05/82AY001SJP?groupId=jpeducation)
+### 97,882 円 | [Lenovo IdeaPad Slim 5i Gen 8 - クラウドグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-5-series/IdeaPad-Slim-5i-Gen-8-(14-inch-Intel)/82XD000EJP?groupId=jpeducation)
 
-- Model: Lenovo Legion 550Pi (82AY001SJP)
-- OS: Windows 10 Home (64-bit) 
-- CPU: Core i5-10300H / 4C8T / **2.5GHz～4.5GHz** / **1MB L2 + 8MB L3**
-- iGPU: Intel UHD Graphics 630 / 24 units / **350 MHz**～1.05 GHz
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- Memory: 8GB / DDR4 2933MHz
+- Model: IdeaPad Slim 5i Gen 8 (14 Intel) (82XD000EJP)
+- OS: Windows 11 Home
+- CPU: Core i5-1340P  / **4C8T(P) + 8C8T(E)** / 1.9GHz～**4.6GHz**(P), 1.4GHz～3.4GHz(E)  / **10MB L2 + 18MB L3**
+- iGPU: Intel Iris Xe Graphics G7 / 80 units / ～**1.45 GHz**
+- Memory: **16GB** / **LPDDR5 5200MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 14.0 inch / **1920 x 1200**
+- Weight: **1.46 kg**
+
+### 99,800 円 | [Victus by HP 15-fb0001AX モデレートプラスモデル](https://h20547.www2.hp.com/is-bin/INTERSHOP.enfinity/WFS/Directplus-Customer-Site/ja_JP/-/JPY/DisplayProductInformationForConsumer-Frame?CategoryName=SERI:6813&ProductSKU=BASE:37721)
+
+- Model: Victus by HP 15-fb0001AX
+- OS: Windows 11 Home
+- CPU: Ryzen 5 5600H / **6C12T** / **3.3GHz**～4.2GHz / **3MB L2 + 16MB L3**
+- iGPU: Radeon RX Vega 6 / 6 CUs (384 pipelines) / ～**1.8GHz**
+- **dGPU:** **GeForce RTX 3050** / **4GB GDDR6**
+- Memory: **16GB** / DDR4 3200MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
 - Display: 15.6 inch / 1920 x 1080
-- Weight: 2.3kg～
+- Weight: 2.29 kg
 
-## 予算 10 万円以下
 
 ## 予算 11 万円以下
 
-### 108,986 円 | [Lenovo IdeaPad Slim 570i Pro - クラウドグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-5-series/IdeaPad-5i-Pro-Gen-7-(16-inch-Intel)/82SK0075JP?groupId=jpeducation)
+### 103,180 円 | [ThinkBook 14 Gen 4 AMD - ミネラルグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/thinkbook/thinkbook-series/ThinkBook-14-Gen-4-(14-inch-AMD)/21DK007TJP?groupId=jpeducation)
 
-- Model: IdeaPad 5i Pro Gen 7 (16″ Intel) (82SK0075JP)
+- Model: ThinkBook 14 Gen 4 (14" AMD) (21DK007TJP)
 - OS: Windows 11 Home
-- CPU: Core i5-12500H / **4C8T(P) + 8C8T(E)** / **2.5GHz～4.5GHz(P)**, 1.8GHz～3.3GHz(E)  / **10MB L2 + 18MB L3**
-- iGPU: Intel Iris Xe Graphics G7 / 80 units / ～**1.3 GHz**
-- Memory: **16GB** / **LPDDR5 4800MHz**
+- CPU: Ryzen 7 5825U / **8C16T** / 2.0GHz～**4.5GHz** / **4MB L2 + 16MB L3**
+- iGPU: Radeon RX Vega 8 / **8 CUs (512 pipelines)** / ～**2.0GHz**
+- Memory: **16GB** / DDR4 3200MHz
+- Storage: **1TB M.2 PCIe NVMe SSD**
+- Display: 14.0 inch / 1920 x 1080
+- Weight: **1.4 kg～**
+
+### 109,062 円 | [Victus by HP 15-fb0002AX アドバンスモデル](https://h20547.www2.hp.com/is-bin/INTERSHOP.enfinity/WFS/Directplus-Customer-Site/ja_JP/-/JPY/DisplayProductInformationForConsumer-Frame?CategoryName=SERI:6813&ProductSKU=BASE:37722)
+
+- Model: Victus by HP 15-fb0002AX
+- OS: Windows 11 Home
+- CPU: **Ryzen 7 5800H** / **8C16T** / **3.2GHz～4.4GHz** / **4MB L2 + 16MB L3**
+- iGPU: Radeon RX Vega 8 / **8 CUs (512 pipelines)** / ～**2.0GHz**
+- **dGPU:** **GeForce RTX 3050 Ti** / **4GB GDDR6**
+- Memory: **16GB** / DDR4 3200MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: **16.0 inch** / **2560 x 1600**
-- Weight: 1.95kg
+- Display: 15.6 inch / 1920 x 1080
+- Weight: 2.29 kg
+
+### 109,280 円 | [GALLERIA UL7C-AA3](https://www.dospara.co.jp/TC143/MC11764-SN3236.html)
+
+- Model: GALLERIA UL7C-AA3
+- OS: Windows 11 Home
+- CPU: **Core i7-12700H** / **6C12T(P) + 8C8T(E)** / 2.3GHz～**4.7GHz**(P), 1.7GHz～3.5GHz(E)  / **11.5MB L2 + 24MB L3**
+- iGPU: Intel Iris Xe Graphics G7 / **96 units** / ～**1.4 GHz**
+- **dGPU:** **Intel Arc A550M** / **8GB GDDR6**
+- Memory: **16GB** / **DDR5 4800MHz**
+- Storage: **512GB M.2 PCIe NVMe SSD**
+- Display: 15.6 inch / 1920 x 1080 / **144Hz**
+- Weight: 2.0 kg
+
 
 ## 予算 12 万円以下
 
-### 110,510 円 | [New Inspiron 14 Intel 【即納】プラチナ（大容量SSD搭載）](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/new-inspiron-14-intel-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E5%A4%A7%E5%AE%B9%E9%87%8Fssd%E6%90%AD%E8%BC%89/spd/inspiron-14-5420-laptop/smi1009spoif08on3ojp)
-
-- Model: Inspiron 14 5420
-- OS: Windows 11 Home
-- CPU: Core i5-1255U / **2C4T(P) + 8C8T(E)** / 1.7GHz～**4.7GHz**(P), 1.2GHz～3.5GHz(E)  / **9.5MB L2 + 12MB L3**
-- iGPU: **Intel Iris Xe Graphics G7** / **96 units** / ～**1.25 GHz**
-- Memory: **16GB** / DDR4 3200MHz
-- Storage: **1TB M.2 PCIe NVMe SSD**
-- Display: 14.0 inch / **1920 x 1200**
-- Weight: 1.54 kg～
-
-### 114,180 円 | [Lenovo Legion 550Pi - アイアングレー](https://www.lenovo.com/jp/edu/ja/p/laptops/legion-laptops/legion-5-series/lenovo-legion-5pi-15imh05/82ay001tjp?groupId=jpeducation)
-
-- Model: Legion 550Pi (第10世代インテル) (82AY001TJP)
-- OS: Windows 10 Home (64-bit) 
-- CPU: Core i7-10750H / **6C12T** / **2.6GHz～5.0GHz** / **1.5 MB L2 + 12MB L3**
-- iGPU: Intel UHD Graphics 630 / 24 units / 350 MHz～1.15 GHz
-- **dGPU:** **GeForce GTX 1650** / **4GB GDDR6**
-- Memory: **16GB** / DDR4 2933MHz
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080
-- Weight: 2.3 kg～
-
-### 119,794 円 | [Dell G15 Ryzen™ Edition プレミアム（RTX3050搭載）](https://www.dell.com/ja-jp/shop/gaming-and-games/dell-g15-ryzen-edition-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-rtx3050%E6%90%AD%E8%BC%89/spd/g-series-15-5525-laptop/cag1000spsaa16on3ojp)
-
-- Model: Dell G 15 5525
-- OS: Windows 11 Home
-- CPU: Ryzen 5 6600H / **6C12T** / **3.3GHz～4.5GHz** / **3MB L2 + 16MB L3**
-- iGPU: **AMD Radeon 660M** / 6 CUs (384 pipelines) / ～**1.9GHz**
-- **dGPU:** **GeForce RTX 3050** / **4GB GDDR6**
-- Memory: **16GB** / **DDR5 4800MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080 / **120Hz**
-- Weight: 2.52 kg～
+該当なし
 
 ## 予算 13 万円以下
 
-## 予算 14 万円以下+
+該当なし
 
-### 131,839 円 | [Lenovo IdeaPad Slim 570i Pro - クラウドグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-slim-5-series/ideapad-5i-pro-gen-7-(16-inch-intel)/82sk0077jp?groupId=jpeducation)
+## 予算 14 万円以下
 
-- Model: IdeaPad Slim 5i Pro Gen 7 (16″ Intel) (82SK0077JP)
+### 130,280 円 | [GALLERIA UL7C-AA2](https://www.dospara.co.jp/TC143/MC11763-SN3283.html)
+
+- Model: GALLERIA UL7C-AA2
 - OS: Windows 11 Home
-- CPU: **Core i7-12700H** / **6C12T(P) + 8C8T(E)** / **2.3GHz～4.7GHz(P)**, 1.7GHz～3.5GHz(E)  / **11.5MB L2 + 24MB L3**
-- iGPU: **Intel Iris Xe Graphics G7** / **96 units** / ～**1.4 GHz**
-- Memory: **16GB** / **LPDDR5 4800MHz**
+- CPU: **Core i7-12700H** / **6C12T(P) + 8C8T(E)** / 2.3GHz～**4.7GHz**(P), 1.7GHz～3.5GHz(E)  / **11.5MB L2 + 24MB L3**
+- iGPU: Intel Iris Xe Graphics G7 / **96 units** / ～**1.4 GHz**
+- **dGPU:** **Intel Arc A730M** / **12GB GDDR6**
+- Memory: **16GB** / **DDR5 4800MHz**
 - Storage: **1TB M.2 PCIe NVMe SSD**
-- Display: **16.0 inch** / **2560 x 1600**
-- Weight: 1.95kg
+- Display: 15.6 inch / 1920 x 1080 / **144Hz**
+- Weight: 2.0 kg
 
-### 132,523 円 | [Dell G15 プレミアム（RTX3050搭載）](https://www.dell.com/ja-jp/shop/gaming-and-games/dell-g15-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-rtx3050%E6%90%AD%E8%BC%89/spd/g-series-15-5520-laptop/cag1000spsaf16on3ojp)
+### 139,810 円 | [Lenovo IdeaPad Gaming 370i - オニキスグレー](https://www.lenovo.com/jp/edu/ja/p/laptops/ideapad/ideapad-gaming-3-series/IdeaPad-Gaming-3i-Gen-7-(16-inch-Intel)/82SA00HFJP?groupId=jpeducation)
 
-- Model: Dell G 15 5520
+- Model: IdeaPad Gaming 3i Gen 7 (16″ Intel) (82SA00HFJP)
 - OS: Windows 11 Home
-- CPU: Core i5-12500H / **4C8T(P) + 8C8T(E)** / **2.5GHz～4.5GHz(P)**, 1.8GHz～3.3GHz(E)  / **10MB L2 + 18MB L3**
-- iGPU: Intel Iris Xe Graphics G7 / 80 units / ～**1.3 GHz**
-- **dGPU:** **GeForce RTX 3050** / **4GB GDDR6**
-- Memory: **16GB** / **DDR5 4800MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080 / **120Hz**
-- Weight: 2.64kg～
-
-### 134,627 円 | [Dell G15 Ryzen™ Edition 【即納】プラチナ（RTX3050Ti搭載）](https://www.dell.com/ja-jp/shop/gaming-and-games/dell-g15-ryzen-edition-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-rtx3050ti%E6%90%AD%E8%BC%89/spd/g-series-15-5525-laptop/smg1600spsaa16on3ojp)
-
-- Model: Dell G 15 5525
-- OS: Windows 11 Home
-- CPU: **Ryzen 7 6800H** / **8C16T** / **3.2GHz～4.7GHz** / **4MB L2 + 16MB L3**
-- iGPU: **AMD Radeon 680M** / **12 CUs (768 pipelines)** / ～**2.2GHz**
-- **dGPU:** **GeForce RTX 3050 Ti** / **4GB GDDR6**
-- Memory: **16GB** / **DDR5 4800MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080 / **120Hz**
-- Weight: 2.52 kg～
-
-### 139,800 円 | [ASUS TUF Gaming F15 FX506HM](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5644220900/varProductID.5644220900/categoryID.4961783800)
-
-- Model: ASUS TUF Gaming F15 FX506HM (FX506HM-I7R3060W11)
-- OS: Windows 11 Home
-- CPU: **Core i7-11800H** / **8C16T** / **2.3GHz～4.6GHz** / **10MB L2 + 24MB L3**
-- iGPU: Intel UHD Graphics Xe / 32 units / 350 MHz～1.45 GHz
-- **dGPU:** **GeForce RTX 3060 Laptop** / **6GB GDDR6**
+- CPU: Core i5-12450H / **4C8T(P) + 4C4T(E)** / **2.5GHz～4.4GHz(P)**, 1.5GHz～3.3GHz(E)  / **8MB L2 + 12MB L3**
+- iGPU: Intel UHD Graphics Xe G4 / 48 units / ～1.2 GHz
+- **dGPU:** **GeForce RTX 3060** / **6GB GDDR6**
 - Memory: **16GB** / DDR4 3200MHz
 - Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080 / **144Hz**
-- 2.3 kg
-
-### 143,266 円 | [Dell G15 【即納】プラチナ（RTX3050Ti搭載）](https://www.dell.com/ja-jp/shop/gaming-and-games/dell-g15-%E5%8D%B3%E7%B4%8D-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-rtx3050ti%E6%90%AD%E8%BC%89/spd/g-series-15-5520-laptop/smg1700spsas16on4ojp)
-
-- Model: Dell G 15 5520
-- OS: Windows 11 Home
-- CPU: **Core i7-12700H** / **6C12T(P) + 8C8T(E)** / **2.3GHz～4.7GHz(P)**, 1.7GHz～3.5GHz(E)  / **11.5MB L2 + 24MB L3**
-- iGPU: **Intel Iris Xe Graphics G7** / **96 units** / ～**1.4 GHz**
-- **dGPU:** **GeForce RTX 3050 Ti** / **4GB GDDR6**
-- Memory: **16GB** / **DDR5 4800MHz**
-- Storage: **512GB M.2 PCIe NVMe SSD**
-- Display: 15.6 inch / 1920 x 1080 / **120Hz**
-- Weight: 2.64kg～
+- Display: **16.0 inch** / **1920 x 1200** / **165Hz**
+- Weight: 2.6 kg
 
 
 ## 過去のデータ
 
-- 2022 年 | [2022-01-22](archive/2022-01-22.md) / [2022-03-26](archive/2022-03-26.md) / [2022-05-31](archive/2022-05-31.md)
+- 2022 年 | [2022-01-22](archive/2022-01-22.md) / [2022-03-26](archive/2022-03-26.md) / [2022-05-31](archive/2022-05-31.md) / [2022-09-19](archive/2022-09-19.md)
 - 2021 年 | [2021-01-26](archive/2021-01-26.md) / [2021-02-11](archive/2021-02-11.md) / [2021-03-16](archive/2021-03-16.md) / [2021-05-07](archive/2021-05-07.md) / [2021-06-16](archive/2021-06-16.md) / [2021-09-05](archive/2021-09-05.md) / [2021-11-17](archive/2021-11-17.md)
 - 2020 年 | [2020-02-04](archive/2020-02-04.md) / [2020-04-26](archive/2020-04-26.md) / [2020-05-27](archive/2020-05-27.md) / [2020-07-07](archive/2020-07-07.md) / [2020-08-07](archive/2020-08-07.md) / [2020-09-11](archive/2020-09-11.md) / [2020-10-15](archive/2020-10-15.md) / [2020-11-13](archive/2020-11-13.md) / [2020-12-15](archive/2020-12-15.md)
 - 2019 年 | [2019-09-20](archive/2019-09-20.md) / [2019-10-01](archive/2019-10-01.md) / [2019-11-07](archive/2019-11-07.md) / [2019-12-26](archive/2019-12-26.md)  
