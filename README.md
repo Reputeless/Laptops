@@ -279,7 +279,7 @@
 - **dGPU:** **GeForce RTX 3050** / **6 GB GDDR6**
 - Memory: **16 GB** / **DDR5 4800 MHz**
 - Storage: **512 GB M.2 PCIe NVMe SSD**
-- Display: 16.0 inch / **1920 x 1200** / **120 Hz**
+- Display: 15.6 inch / 1920 x 1080 / **120 Hz**
 - Weight: 2.81 kg
 
 
