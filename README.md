@@ -92,7 +92,7 @@
 
 ## 予算 9 万円以下
 
-### 83,617 円 | [Inspiron 14](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-16-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-16-5635-laptop/sin56353006spmonojp)
+### 83,617 円 | [Inspiron 14](https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5435-laptop/sin54351108spmonojp)
 
 - Model: Inspiron 14 5435 (AMD)
 - OS: Windows 11 Home
