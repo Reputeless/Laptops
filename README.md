@@ -14,17 +14,20 @@
 
 ### スペック表の読み方
 
-- Model: モデル名
-- [OS](https://e-words.jp/w/OS.html): オペレーティングシステム
-- [CPU](https://e-words.jp/w/CPU.html): プロセッサナンバー / コア数・スレッド数 / ベースクロック～Turbo Boost 時最高クロック / キャッシュ
-- [iGPU](https://e-words.jp/w/iGPU.html): 内蔵 GPU / 処理ユニット数 / クロック
-    - CPU に内蔵されている省電力の GPU で、軽量なグラフィックス処理ができます
-- [dGPU](https://e-words.jp/w/dGPU.html): ディスクリート GPU / GPU メモリ
-    - 独立した GPU で、重いグラフィックス処理ができます
-- [Memory](https://e-words.jp/w/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA.html): メモリ容量 / メモリ規格と周波数
-- Storage: ハードディスク ([HDD](https://e-words.jp/w/%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF.html)) または [SSD](https://e-words.jp/w/SSD.html)
-- Display: 画面サイズ / 解像度 / [リフレッシュレート](https://e-words.jp/w/%E5%9E%82%E7%9B%B4%E8%B5%B0%E6%9F%BB%E5%91%A8%E6%B3%A2%E6%95%B0.html)（記載がない場合は 60Hz）
-- Weight: 重量（そのモデルの最小構成の重量なので、これより大きい場合があります）
+| 項目 | 説明 |
+| --- | --- |
+| Model | パソコンのモデル名 |
+| [OS](https://e-words.jp/w/OS.html) | オペレーティングシステム |
+| [CPU](https://e-words.jp/w/CPU.html) | プロセッサナンバー / コア数・スレッド数 / ベースクロック～Turbo Boost 時最高クロック / キャッシュ |
+| [iGPU](https://e-words.jp/w/iGPU.html) | 内蔵 GPU / 処理ユニット数 / クロック |
+| [dGPU](https://e-words.jp/w/dGPU.html) | ディスクリート GPU / GPU メモリ |
+| [Memory](https://e-words.jp/w/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA.html) | メモリ容量 / メモリ規格と周波数 |
+| Storage | ストレージの容量と [SSD](https://e-words.jp/w/SSD.html) の種類 |
+| Display | 画面サイズ / 解像度 / [リフレッシュレート](https://e-words.jp/w/%E5%9E%82%E7%9B%B4%E8%B5%B0%E6%9F%BB%E5%91%A8%E6%B3%A2%E6%95%B0.html)（記載がない場合は 60 Hz） |
+| Weight | 重量（最小構成の重量なので、実際はこれより重い場合があります） |
+
+- **iGPU: ** CPU に内蔵されている安価で省電力の GPU で、日常的な作業や軽めのグラフィック処理が可能です。
+- **dGPU: ** 独立した専用チップとして存在する高性能 GPU で、3D ゲームやモデリング、ビデオ編集など、高負荷の作業に向いています。
 
 <!--
 - CPU: 7-H 以上 / 6C12T 以上 / 2.4 GHz～4.4 GHz / 合計 12 MB 以上
