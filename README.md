@@ -146,7 +146,7 @@
 - **dGPU:** **GeForce RTX 4050** / **6 GB GDDR6**
 - Memory: **16 GB** / **DDR5 5600 MHz**
 - Storage: 512 GB M.2 PCIe NVMe SSD
-- Display: **16.1 inch** / 1920 x 1080
+- Display: **16.1 inch** / 1920 x 1080 / **144 Hz**
 - Weight: 2.3 kg
 
 
