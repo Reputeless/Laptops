@@ -215,6 +215,21 @@
 | ディスプレイ | 15.6 inch / 1920 x 1080 / **120 Hz** |
 | 重さ | 2.81 kg |
 
+### 127,800 円 | [Victus 15（インテル）価格.com限定モデル](https://jp.ext.hp.com/gaming/personal/victus_15_fa/kakaku/)
+
+|  |  |
+| --- | --- |
+| 製品 | Victus by HP 15-fa1000 |
+| OS | Windows 11 Home |
+| CPU | Core i5-12500H / **4C8T (P コア) + 8C8T (E コア)** / **2.5 GHz～4.5 GHz (P コア)**, 1.8 GHz～3.3 GH (E コア)  / **10 MB L2 + 18 MB L3** |
+| iGPU | Intel Iris Xe Graphics G7 / 80 units / ～1.3 GHz |
+| NPU | なし |
+| dGPU | **GeForce RTX 4050** / **6 GB GDDR6** |
+| メモリ | **16 GB** / DDR4 3200 MHz |
+| ストレージ | 512 GB M.2 PCIe NVMe SSD |
+| ディスプレイ | 15.6 inch / 1920 x 1080 / **144 Hz** |
+| 重さ | 2.29 kg |
+
 
 ## 予算 14 万円以下
 
