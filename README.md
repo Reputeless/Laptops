@@ -1,6 +1,6 @@
 # notebookjp | 学生向け 低予算・高性能ノート PC
 
-*2024-12-09 版*  
+*2025-05-21 版*  
 
 ゲーム開発やプログラミングをしたいけれど、PC を買う予算が限られている小学生～大学生のための、価格帯別コスパ最高 PC リストです。CPU や GPU, メモリやストレージの性能・容量を重視しています。
 
@@ -41,9 +41,25 @@
 -->
 
 
-## 予算 7 万円以下
+## 予算 8 万円以下
 
-### 61,721 円 | [Inspiron 15 (AMD)](https://www.dell.com/ja-jp/shop/%E4%BB%8A%E9%80%B1%E3%81%AE%E3%81%8A%E8%B2%B7%E3%81%84%E5%BE%97/inspiron-15-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-15-3535-laptop/in3535v84rm001omnojp)
+### 70,393 円 | [Lenovo IdeaPad Slim 3 Gen 8 - アークティックグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/ideapad/ideapad-slim-3-series/IdeaPad-Slim-3-Gen-8-15-inch-AMD/82xm00fcjp)
+
+|  |  |
+| --- | --- |
+| 製品 | Lenovo IdeaPad Slim 3 Gen 8 (82XM00FCJP) |
+| OS | Windows 11 Home |
+| CPU | Ryzen 5 7530U / **6C12T** / 2.0 GHz～**4.5 GHz** / **3 MB L2 + 16 MB L3** |
+| iGPU | Radeon RX Vega 7 / 7 CUs (448 pipelines) / ～**2.0 GHz** |
+| NPU | なし |
+| dGPU | なし |
+| メモリ | **16 GB** / DDR4 3200 MHz |
+| ストレージ | 512 GB M.2 PCIe NVMe SSD |
+| ディスプレイ | 15.6 inch / 1920 x 1080 |
+| 重さ | 1.62 kg |
+
+
+### 70,791 円 | [Inspiron 15 (AMD)](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-15-3535-laptop)
 
 |  |  |
 | --- | --- |
@@ -59,53 +75,83 @@
 | 重さ | 1.63 kg～ |
 
 
-### 67,939 円 | [Inspiron 14](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5440-laptop/sin5440340401monojp)
+### 73,304 円 | [Lenovo IdeaPad Slim 3 Gen 10 - ルナグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/ideapad/ideapad-slim-3-series/ideapad-slim-3-gen-10-14-inch-amd/83k6000djp)
 
 |  |  |
 | --- | --- |
-| 製品 | Inspiron 14 5440 |
+| 製品 | Lenovo IdeaPad Slim 3 Gen 10 (83K6000DJP) |
 | OS | Windows 11 Home |
-| CPU | Core i5-1334U / **2C4T (P コア) + 8C8T (E コア)** / 1.3 GHz～**4.6 GHz (P コア)**, 0.9 GHz～3.4 GHz (E コア) / **9.5 MB L2 + 12 MB L3** |
-| iGPU | Intel Iris Xe Graphics G7 / 80 units / ～1.25 GHz |
+| CPU | Ryzen 5 7533HS / **6C12T** / **3.3 GHz～4.55 GHz** / **3 MB L2 + 16 MB L3** |
+| iGPU | AMD Radeon 660M / 6 CUs (384 pipelines) / ～**1.9 GHz** |
 | NPU | なし |
 | dGPU | なし |
-| メモリ | **16 GB** / DDR5 4400 MHz |
+| メモリ | **16 GB** / **DDR5 4800 MHz** |
 | ストレージ | 512 GB M.2 PCIe NVMe SSD |
 | ディスプレイ | 14.0 inch / **1920 x 1200** |
-| 重さ | 1.54 kg～ |
+| 重さ | **1.39 kg** |
 
 
-### 69,801 円 | [Inspiron 14 (AMD)](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5445-amd-laptop/sin5445352201monojp)
+### 78,204 円 | [Lenovo IdeaPad Slim 3 Gen 10 - ルナグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/ideapad/ideapad-slim-3-series/lenovo-ideapad-slim-3-gen-10-16-inch-amd/83k80015jp)
 
 |  |  |
 | --- | --- |
-| 製品 | Inspiron 14 5445 |
+| 製品 | Lenovo IdeaPad Slim 3 Gen 10 (83K80015JP) |
 | OS | Windows 11 Home |
-| CPU | Ryzen 5 8540U / **2C4T (Zen4) + 4C8T (Zen4c)** / 3.7 GHz～**4.9 GHz (Zen4)**, 3.0 GHz～3.5 GHz (Zen4c) / **6 MB L2 + 16 MB L3**|
-| iGPU | AMD Radeon 740M / 4 CUs (256 pipelines) / ～**2.8 GHz** |
+| CPU | Ryzen 5 7533HS / **6C12T** / **3.3 GHz～4.55 GHz** / **3 MB L2 + 16 MB L3** |
+| iGPU | AMD Radeon 660M / 6 CUs (384 pipelines) / ～**1.9 GHz** |
 | NPU | なし |
 | dGPU | なし |
-| メモリ | **16 GB** / **DDR5 5600 MHz** |
+| メモリ | **16 GB** / **DDR5 4800 MHz** |
 | ストレージ | 512 GB M.2 PCIe NVMe SSD |
-| ディスプレイ | 14.0 inch / **1920 x 1200** |
-| 重さ | 1.61 kg～ |
-
-
-## 予算 8 万円以下
-（該当なし）
+| ディスプレイ | 16.0 inch / **1920 x 1200** |
+| 重さ | 1.68 kg |
 
 
 ## 予算 9 万円以下
 
-### 80,232 円 | [Inspiron 14 (AMD)](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5445-amd-laptop/sin5445301101monojp)
+### 89,955 円 | [Lenovo V14 Gen4 パフォーマンス](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/lenovo/lenovo-v-series/lenovo-v14-gen-4-14-inch-intel/83a0cto1wwjp3)
+
+|  |  |
+| --- | --- |
+| 製品 | Lenovo V14 Gen4 (83A0CTO1WWJP3) |
+| OS | Windows 11 Home |
+| CPU | Core i5-13420H / **4C8T (P コア) + 4C4T (E コア)** / 2.1 GHz～**4.6 GHz (P コア)**, 1.5 GHz～3.4 GHz (E コア)  / **8 MB L2 + 12 MB L3** |
+| iGPU | Intel UHD Graphics Xe G4 / 48 units / ～**1.4 GHz** |
+| NPU | なし |
+| dGPU | なし |
+| メモリ | **16 GB** / DDR4 3200 MHz |
+| ストレージ | 512 GB M.2 PCIe NVMe SSD |
+| ディスプレイ | 14.0 inch / 1920 x 1080 |
+| 重さ | **1.43 kg～** |
+
+
+## 予算 10 万円以下
+
+### 92,924 円 | [Lenovo IdeaPad Slim 3 Gen 10 - ルナグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/ideapad/ideapad-slim-3-series/IdeaPad-Slim-3-Gen-10-14-inch-AMD/83k6000cjp)
+
+|  |  |
+| --- | --- |
+| 製品 | Lenovo IdeaPad Slim 3 Gen 10 (83K6000CJP) |
+| OS | Windows 11 Home |
+| CPU | Ryzen 7 7735HS / **8C16T** / **3.2 GHz～4.75 GHz** / **4 MB L2 + 16 MB L3** |
+| iGPU | AMD Radeon 680M / **12 CUs (768 pipelines)** / ～**2.2 GHz** |
+| NPU | なし |
+| dGPU | なし |
+| メモリ | **16 GB** / **DDR5 4800 MHz** |
+| ストレージ | **1 TB** M.2 PCIe NVMe SSD |
+| ディスプレイ | 14.0 inch / 1920 x 1080 |
+| 重さ | **1.39 kg** |
+
+
+### 96,982 円 | [Inspiron 14 (AMD)](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5445-amd-laptop)
 
 |  |  |
 | --- | --- |
 | 製品 | Inspiron 14 5445 |
 | OS | Windows 11 Home |
-| CPU | Ryzen 7 8840U / **8C16T** / **3.3 GHz～5.1 GHz** / **8 MB L2 + 16 MB L3** |
+| CPU | **Ryzen 7 8840HS** / **8C16T** / **3.3 GHz～5.1 GHz** / **8 MB L2 + 16 MB L3** |
 | iGPU | **AMD Radeon 780M** / **12 CUs (768 pipelines)** /  ～**2.7 GHz** |
-| NPU | 16 TOPS / トータル 38 TOPS |
+| NPU | 16 TOPS / トータル 39 TOPS |
 | dGPU | なし |
 | メモリ | **16 GB** / **DDR5 5600 MHz** |
 | ストレージ | **1 TB M.2 PCIe NVMe SSD** |
@@ -113,58 +159,25 @@
 | 重さ | 1.61 kg～ |
 
 
-## 予算 10 万円以下
-
-### 95,736 円 | [Inspiron 14 (AMD)](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-5445-amd-laptop/oin5445321101monojp)
-
-|  |  |
-| --- | --- |
-| 製品 | Inspiron 14 5445 |
-| OS | Windows 11 Home |
-| CPU | Ryzen 7 8840U / **8C16T** / **3.3 GHz～5.1 GHz** / **8 MB L2 + 16 MB L3** |
-| iGPU | **AMD Radeon 780M** / **12 CUs (768 pipelines)** /  ～**2.7 GHz** |
-| NPU | 16 TOPS / トータル 38 TOPS  |
-| dGPU | なし |
-| メモリ | **32 GB** / **DDR5 5600 MHz** |
-| ストレージ | **1 TB M.2 PCIe NVMe SSD** |
-| ディスプレイ | 14.0 inch / **1920 x 1200** |
-| 重さ | 1.61 kg～ |
-
-### 99,800円 | [ASUS TUF Gaming A15](https://store.asus.com/jp/15366-jp-cnf-asus-tuf-gaming-a15-fa506.html)
-
-|  |  |
-| --- | --- |
-| 製品 | ASUS TUF Gaming A15 FA506NF (FA506NF-R5R2050S) |
-| OS | Windows 11 Home |
-| CPU | Ryzen 5 7535HS / **6C12T** / **3.3 GHz～4.55 GHz** / **3 MB L2 + 16 MB L3** |
-| iGPU | Radeon 660M / 6 CUs (384 pipelines) /  ～**1.9 GHz** |
-| NPU | なし |
-| dGPU | **GeForce RTX 2050** / **4 GB GDDR6** |
-| メモリ | **16 GB** / **DDR5 4800 MHz** |
-| ストレージ | 512 GB M.2 PCIe NVMe SSD |
-| ディスプレイ | 15.6 inch / 1920 x 1080 / **144 Hz** |
-| 重さ | 2.30 kg |
-
-
 ## 予算 11 万円以下
 
-### 102,733 円 | [Lenovo LOQ Essential Gen 9 - ルナグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/loq-laptops/lenovo-loq-essential-gen-9-15-intel/83lk001njp)
+### 107,692 円 | [Lenovo IdeaPad 5 2-in-1 Gen 10 - ルナグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/ideapad/ideapad-5/lenovo-ideapad-5-2-in-1-gen-10-14-inch-amd/83kt0034jp)
 
 |  |  |
 | --- | --- |
-| 製品 | Lenovo LOQ Essential Gen 9 (83LK001NJP) |
+| 製品 |  Lenovo IdeaPad 5 2-in-1 Gen 10 (83KT0034JP) |
 | OS | Windows 11 Home |
-| CPU | Core i5-12450HX / **4C8T (P コア) + 4C4T (E コア)** / **2.4 GHz～4.4 GHz (P コア)**, 1.8 GHz～3.1 GHz (E コア)  / **8 MB L2 + 12 MB L3** |
-| iGPU | Intel UHD Graphics Xe / 16 units / ～1.3 GHz |
-| NPU | なし |
-| dGPU | **GeForce RTX 3050** / **6 GB GDDR6** |
-| メモリ | **16 GB** / **DDR5 4800 MHz** |
+| CPU | **AMD Ryzen AI 5 340** / **6C12T** / 2.2 GHz～**4.8 GHz** / **6 MB L2 + 16 MB L3** |
+| iGPU | AMD Radeon 840M / 4 CUs (256 pipelines) / ～**2.9 GHz** |
+| NPU | **50 TOPS** / **トータル 59 TOPS** |
+| dGPU | なし |
+| メモリ | **16 GB** / **LPDDR5X 7500 MHz** |
 | ストレージ | 512 GB M.2 PCIe NVMe SSD |
-| ディスプレイ | 15.6 inch / 1920 x 1080 / **144 Hz** |
-| 重さ | 1.77 kg |
+| ディスプレイ | 14.0 inch / **1920 x 1200** / **タッチ対応** |
+| 重さ | 1.6 kg |
 
 
-### 107,692 円 | [Lenovo IdeaPad 5 2-in-1 Gen 9 - ルナグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/ideapad/ideapad-5/lenovo-ideapad-5-2-in-1-gen-9-14-inch-amd/83dr0003jp)
+### 107,692 円 | [Lenovo IdeaPad 5 2-in-1 Gen 9 - ルナグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/ideapad/ideapad-5/Lenovo-IdeaPad-5-2-in-1-Gen-9-14-inch-AMD/83dr0003jp)
 
 |  |  |
 | --- | --- |
@@ -178,6 +191,22 @@
 | ストレージ | 512 GB M.2 PCIe NVMe SSD |
 | ディスプレイ | 14.0 inch / **1920 x 1200** |
 | 重さ | 1.6 kg |
+
+
+### 107,692 円 | [Lenovo LOQ Essential Gen 9 - ルナグレー](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/loq-laptops/lenovo-loq-essential-gen-9-15-intel/83lk007ejp)
+
+|  |  |
+| --- | --- |
+| 製品 | Lenovo LOQ Essential Gen 9 (83LK007EJP) |
+| OS | Windows 11 Home |
+| CPU | Core i5-12450HX / **4C8T (P コア) + 4C4T (E コア)** / **2.4 GHz～4.4 GHz (P コア)**, 1.8 GHz～3.1 GHz (E コア)  / **8 MB L2 + 12 MB L3** |
+| iGPU | Intel UHD Graphics Xe / 16 units / ～1.3 GHz |
+| NPU | なし |
+| dGPU | **GeForce RTX 3050** / **6 GB GDDR6** |
+| メモリ | **16 GB** / **DDR5 4800 MHz** |
+| ストレージ | 512 GB M.2 PCIe NVMe SSD |
+| ディスプレイ | 15.6 inch / 1920 x 1080 / **144 Hz** |
+| 重さ | 1.77 kg |
 
 
 ## 予算 12 万円以下
@@ -200,7 +229,7 @@
 
 ## 予算 13 万円以下
 
-### 124,782 円 | [Dell G15](https://www.dell.com/ja-jp/shop/%E4%BB%8A%E9%80%B1%E3%81%AE%E3%81%8A%E8%B2%B7%E3%81%84%E5%BE%97/dell-g15-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0-%E3%83%8E%E3%83%BC%E3%83%88pc/spd/g-series-15-5530-laptop/gn5530ptkdhsppsmnojp)
+### 129,434 円 | [Dell G15](https://www.dell.com/ja-jp/shop/gaming-and-games/g15-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/g-series-15-5530-laptop)
 
 |  |  |
 | --- | --- |
@@ -209,49 +238,34 @@
 | CPU | **Core i7-13650HX** / **6C12T (P コア) + 8C8T (E コア)** / **2.6 GHz～4.9 GHz (P コア)**, 1.9 GHz～3.6 GHz (E コア)  / **24 MB L3** |
 | iGPU | Intel UHD Graphics Xe / 16 units / ～**1.55 GHz** |
 | NPU | なし |
-| dGPU | **GeForce RTX 3050** / **6 GB GDDR6** |
+| dGPU | **GeForce RTX 4050** / **6 GB GDDR6** |
 | メモリ | **16 GB** / **DDR5 4800 MHz** |
 | ストレージ | 512 GB M.2 PCIe NVMe SSD |
 | ディスプレイ | 15.6 inch / 1920 x 1080 / **120 Hz** |
-| 重さ | 2.81 kg |
-
-### 127,800 円 | [Victus 15（インテル）価格.com限定モデル](https://jp.ext.hp.com/gaming/personal/victus_15_fa/kakaku/)
-
-|  |  |
-| --- | --- |
-| 製品 | Victus by HP 15-fa1000 |
-| OS | Windows 11 Home |
-| CPU | Core i5-12500H / **4C8T (P コア) + 8C8T (E コア)** / **2.5 GHz～4.5 GHz (P コア)**, 1.8 GHz～3.3 GH (E コア)  / **10 MB L2 + 18 MB L3** |
-| iGPU | Intel Iris Xe Graphics G7 / 80 units / ～1.3 GHz |
-| NPU | なし |
-| dGPU | **GeForce RTX 4050** / **6 GB GDDR6** |
-| メモリ | **16 GB** / DDR4 3200 MHz |
-| ストレージ | 512 GB M.2 PCIe NVMe SSD |
-| ディスプレイ | 15.6 inch / 1920 x 1080 / **144 Hz** |
-| 重さ | 2.29 kg |
+| 重さ | 2.97 kg |
 
 
 ## 予算 14 万円以下
 
-### 137,900 円 | [Lenovo LOQ 15AHP9 :カスタマイズモデル](https://www.lenovo.com/jp/edu/jpeducation/ja/p/laptops/loq-laptops/lenovo-loq-15ahp9/83dxcto1wwjp2)
+### 136,755 円 | [Dell G15](https://www.dell.com/ja-jp/shop/gaming-and-games/g15-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/g-series-15-5530-laptop)
 
 |  |  |
 | --- | --- |
-| 製品 | Lenovo LOQ 15AHP9 (83DXCTO1WWJP2) |
+| 製品 | Dell G15 5530 |
 | OS | Windows 11 Home |
-| CPU | Ryzen 5 8645HS / **6C12T** / **4.3 GHz～5.0 GHz** / **6 MB L2 + 16 MB L3** |
-| iGPU | **AMD Radeon 760M** / **8 CUs (512 pipelines)** / ～**2.6 GHz** |
-| NPU | 16 TOPS / トータル 31 TOPS |
+| CPU | **Core i7-13650HX** / **6C12T (P コア) + 8C8T (E コア)** / **2.6 GHz～4.9 GHz (P コア)**, 1.9 GHz～3.6 GHz (E コア)  / **24 MB L3** |
+| iGPU | Intel UHD Graphics Xe / 16 units / ～**1.55 GHz** |
+| NPU | なし |
 | dGPU | **GeForce RTX 4050** / **6 GB GDDR6** |
 | メモリ | **16 GB** / **DDR5 4800 MHz** |
-| ストレージ | 512 GB M.2 PCIe NVMe SSD |
-| ディスプレイ | 15.6 inch / 1920 x 1080 / **144 Hz** |
-| 重さ | 2.38 kg |
+| ストレージ | **1 TB M.2 PCIe NVMe SSD** |
+| ディスプレイ | 15.6 inch / 1920 x 1080 / **120 Hz** |
+| 重さ | 2.97 kg |
 
 
 ## 過去のデータ
 
-- 2024 年 | [2024-02-02](archive/2024-02-02.md) | [2024-07-16](archive/2024-07-16.md) 
+- 2024 年 | [2024-02-02](archive/2024-02-02.md) | [2024-07-16](archive/2024-07-16.md) | [2024-12-09](archive/2024-12-09.md)
 - 2023 年 | [2023-04-19](archive/2023-04-19.md) / [2023-08-22](archive/2023-08-22.md)
 - 2022 年 | [2022-01-22](archive/2022-01-22.md) / [2022-03-26](archive/2022-03-26.md) / [2022-05-31](archive/2022-05-31.md) / [2022-09-19](archive/2022-09-19.md)
 - 2021 年 | [2021-01-26](archive/2021-01-26.md) / [2021-02-11](archive/2021-02-11.md) / [2021-03-16](archive/2021-03-16.md) / [2021-05-07](archive/2021-05-07.md) / [2021-06-16](archive/2021-06-16.md) / [2021-09-05](archive/2021-09-05.md) / [2021-11-17](archive/2021-11-17.md)
