@@ -9,6 +9,7 @@
 #### 💗 スポンサー
 - [TOMOAKI12345](https://github.com/TOMOAKI12345) 様
 - [CubeSoft, Inc.](https://www.cube-soft.jp/) 様
+- [おおやま](https://www.ise.ous.ac.jp/laboratory/t-oyama.html) 様
 
 情報拡充と更新頻度向上のため [GitHub Sponsors](https://github.com/sponsors/Reputeless) によるサポートをお願いします。
 
@@ -265,6 +266,7 @@
 
 ## 過去のデータ
 
+- 2025 年 | [2025-05-21](archive/2025-05-21.md)
 - 2024 年 | [2024-02-02](archive/2024-02-02.md) | [2024-07-16](archive/2024-07-16.md) | [2024-12-09](archive/2024-12-09.md)
 - 2023 年 | [2023-04-19](archive/2023-04-19.md) / [2023-08-22](archive/2023-08-22.md)
 - 2022 年 | [2022-01-22](archive/2022-01-22.md) / [2022-03-26](archive/2022-03-26.md) / [2022-05-31](archive/2022-05-31.md) / [2022-09-19](archive/2022-09-19.md)
